@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-from crawlers.player_crawler import crawl_player_detail_page
-
 
 
 base_url = 'https://www.transfermarkt.com'
@@ -20,14 +18,3 @@ countries = [
     {"name":"England", "id":189},
 ]
 
-
-#### CLUB(PLAYERS LIST) PAGE
-response = requests.get(club_url, headers=headers)
-content = BeautifulSoup(response.text, 'html.parser')
-players_selectors = content.select('table.items > tbody > tr')
-
-
-for player in players_selectors:
-    compact_player_href = player.select_one('td.posrela td.hauptlink a').get("href")
-    detailed_player_href = f"{base_url}{compact_player_href.replace('profil', 'leistungsdatendetails')}/plus/1?saison=&verein=&liga=&wettbewerb=&pos=&trainer_id="
-    crawl_player_detail_page(detailed_player_href)
