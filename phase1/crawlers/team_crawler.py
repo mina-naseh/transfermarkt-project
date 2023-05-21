@@ -28,7 +28,7 @@ def extract_teams(url, year, league_name):
         id = extract_id(href)
         age = td[3].text
         tmv = td[6].text.replace("€", "")
-        teams_df = teams_df._append({
+        teams_df = teams_df.append({
             "id": id,
             "name": name,
             "age": age,
