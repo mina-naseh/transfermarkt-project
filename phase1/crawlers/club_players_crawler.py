@@ -3,6 +3,20 @@ import requests
 from bs4 import BeautifulSoup
 
 
+def text_to_num(text):
+    d = {
+        'k': 1000,
+        'm': 1000000,
+        'b': 1000000000
+    }
+
+    if text[-1] in d:
+        # separate out the k, m, or b
+        num, magnitude = text[:-1], text[-1]
+        return int(float(num) * d[magnitude])
+    else:
+        return float(text)
+
 
 def get_players_data(content, players_initial_data, season, club_id, players_club_history) -> None:
     players_selectors = content.select('table.items > tbody > tr')
@@ -17,7 +31,7 @@ def get_players_data(content, players_initial_data, season, club_id, players_clu
             "player_id": player_id,
             "season": season,
             "club_id": club_id,
-            "market_value": None if player_market_value == '-' else player_market_value
+            "market_value": None if player_market_value == '-' else text_to_num( player_market_value.replace('\u20ac', '') )
         })
 
 
