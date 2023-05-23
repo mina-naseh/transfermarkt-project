@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 
 
 base_url = 'https://www.transfermarkt.com'
-club_url = f'{base_url}/burnley-fc/kader/verein/1132/plus/1/galerie/0?saison_id=2021'
 headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36',
             'Accept-Language': 'en-US,en;q=0.5'
@@ -17,4 +16,3 @@ countries = [
     {"name":"Spain", "id":157},
     {"name":"England", "id":189},
 ]
-
