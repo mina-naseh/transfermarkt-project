@@ -1,0 +1,609 @@
+,year,team_name,ball_possession
+0,2015,Leicester City,9.9
+1,2015,Tottenham Hotspur,9.9
+2,2015,Manchester United,9.9
+3,2015,West Ham United,9.9
+4,2015,Stoke City,9.9
+5,2015,Everton FC,9.9
+6,2015,Watford FC,9.9
+7,2015,Crystal Palace,9.9
+8,2015,Sunderland AFC,9.9
+9,2015,Norwich City,9.9
+10,2015,Arsenal FC,9.9
+11,2015,Manchester City,9.9
+12,2015,Southampton FC,9.9
+13,2015,Liverpool FC,9.9
+14,2015,Chelsea FC,9.9
+15,2015,Swansea City,9.9
+16,2015,West Bromwich Albion,9.9
+17,2015,AFC Bournemouth,9.9
+18,2015,Newcastle United,9.9
+19,2015,Aston Villa,9.9
+20,2016,Chelsea FC,9.9
+21,2016,Manchester City,9.9
+22,2016,Arsenal FC,9.9
+23,2016,Everton FC,9.9
+24,2016,AFC Bournemouth,9.9
+25,2016,West Ham United,9.9
+26,2016,Stoke City,9.9
+27,2016,Swansea City,9.9
+28,2016,Watford FC,9.9
+29,2016,Middlesbrough FC,9.9
+30,2016,Tottenham Hotspur,9.9
+31,2016,Liverpool FC,9.9
+32,2016,Manchester United,9.9
+33,2016,Southampton FC,9.9
+34,2016,West Bromwich Albion,9.9
+35,2016,Leicester City,9.9
+36,2016,Crystal Palace,9.9
+37,2016,Burnley FC,9.9
+38,2016,Hull City,9.9
+39,2016,Sunderland AFC,9.9
+40,2017,Manchester City,9.9
+41,2017,Tottenham Hotspur,9.9
+42,2017,Chelsea FC,9.9
+43,2017,Burnley FC,9.9
+44,2017,Leicester City,9.9
+45,2017,Crystal Palace,9.9
+46,2017,West Ham United,9.9
+47,2017,Brighton & Hove Albion,9.9
+48,2017,Southampton FC,9.9
+49,2017,Stoke City,9.9
+50,2017,Manchester United,9.9
+51,2017,Liverpool FC,9.9
+52,2017,Arsenal FC,9.9
+53,2017,Everton FC,9.9
+54,2017,Newcastle United,9.9
+55,2017,AFC Bournemouth,9.9
+56,2017,Watford FC,9.9
+57,2017,Huddersfield Town,9.9
+58,2017,Swansea City,9.9
+59,2017,West Bromwich Albion,9.9
+60,2019,Liverpool FC,64.4
+61,2019,Manchester United,54.5
+62,2019,Leicester City,57.2
+63,2019,Wolverhampton Wanderers,48.5
+64,2019,Sheffield United,43.3
+65,2019,Southampton FC,51.6
+66,2019,Newcastle United,41.8
+67,2019,Brighton & Hove Albion,50.1
+68,2019,Aston Villa,43.8
+69,2019,Watford FC,39.8
+70,2019,Manchester City,68.7
+71,2019,Chelsea FC,62.4
+72,2019,Tottenham Hotspur,51.0
+73,2019,Arsenal FC,53.1
+74,2019,Burnley FC,41.2
+75,2019,Everton FC,46.5
+76,2019,Crystal Palace,43.4
+77,2019,West Ham United,42.9
+78,2019,AFC Bournemouth,44.1
+79,2019,Norwich City,49.2
+80,2020,Manchester City,64.3
+81,2020,Liverpool FC,62.2
+82,2020,Leicester City,54.9
+83,2020,Tottenham Hotspur,51.5
+84,2020,Leeds United,57.5
+85,2020,Aston Villa,48.2
+86,2020,Wolverhampton Wanderers,49.3
+87,2020,Southampton FC,51.3
+88,2020,Burnley FC,41.1
+89,2020,West Bromwich Albion,37.6
+90,2020,Manchester United,56.0
+91,2020,Chelsea FC,61.7
+92,2020,West Ham United,42.7
+93,2020,Arsenal FC,53.6
+94,2020,Everton FC,46.9
+95,2020,Newcastle United,38.7
+96,2020,Crystal Palace,40.2
+97,2020,Brighton & Hove Albion,51.2
+98,2020,Fulham FC,49.5
+99,2020,Sheffield United,41.5
+100,2021,Manchester City,68.4
+101,2021,Chelsea FC,62.2
+102,2021,Arsenal FC,52.8
+103,2021,West Ham United,47.7
+104,2021,Brighton & Hove Albion,54.5
+105,2021,Newcastle United,39.7
+106,2021,Brentford FC,44.8
+107,2021,Southampton FC,47.8
+108,2021,Leeds United,52.0
+109,2021,Watford FC,40.1
+110,2021,Liverpool FC,63.3
+111,2021,Tottenham Hotspur,52.0
+112,2021,Manchester United,52.7
+113,2021,Leicester City,52.7
+114,2021,Wolverhampton Wanderers,49.7
+115,2021,Crystal Palace,51.4
+116,2021,Aston Villa,45.9
+117,2021,Everton FC,39.6
+118,2021,Burnley FC,39.5
+119,2021,Norwich City,42.4
+120,2015,FC Barcelona,9.9
+121,2015,Atlético de Madrid,9.9
+122,2015,Athletic Bilbao,9.9
+123,2015,Sevilla FC,9.9
+124,2015,Real Sociedad,9.9
+125,2015,Valencia CF,9.9
+126,2015,SD Eibar,9.9
+127,2015,Deportivo de La Coruña,9.9
+128,2015,Granada CF,9.9
+129,2015,Getafe CF,9.9
+130,2015,Real Madrid,9.9
+131,2015,Villarreal CF,9.9
+132,2015,Celta de Vigo,9.9
+133,2015,Málaga CF,9.9
+134,2015,Real Betis Balompié,9.9
+135,2015,UD Las Palmas,9.9
+136,2015,RCD Espanyol Barcelona,9.9
+137,2015,Sporting Gijón,9.9
+138,2015,Rayo Vallecano,9.9
+139,2015,Levante UD,9.9
+140,2016,Real Madrid,9.9
+141,2016,Atlético de Madrid,9.9
+142,2016,Villarreal CF,9.9
+143,2016,Athletic Bilbao,9.9
+144,2016,Deportivo Alavés,9.9
+145,2016,Málaga CF,9.9
+146,2016,Celta de Vigo,9.9
+147,2016,Real Betis Balompié,9.9
+148,2016,CD Leganés,9.9
+149,2016,CA Osasuna,9.9
+150,2016,FC Barcelona,9.9
+151,2016,Sevilla FC,9.9
+152,2016,Real Sociedad,9.9
+153,2016,RCD Espanyol Barcelona,9.9
+154,2016,SD Eibar,9.9
+155,2016,Valencia CF,9.9
+156,2016,UD Las Palmas,9.9
+157,2016,Deportivo de La Coruña,9.9
+158,2016,Sporting Gijón,9.9
+159,2016,Granada CF,9.9
+160,2017,FC Barcelona,9.9
+161,2017,Real Madrid,9.9
+162,2017,Villarreal CF,9.9
+163,2017,Sevilla FC,9.9
+164,2017,SD Eibar,9.9
+165,2017,Real Sociedad,9.9
+166,2017,RCD Espanyol Barcelona,9.9
+167,2017,Levante UD,9.9
+168,2017,CD Leganés,9.9
+169,2017,UD Las Palmas,9.9
+170,2017,Atlético de Madrid,9.9
+171,2017,Valencia CF,9.9
+172,2017,Real Betis Balompié,9.9
+173,2017,Getafe CF,9.9
+174,2017,Girona FC,9.9
+175,2017,Celta de Vigo,9.9
+176,2017,Deportivo Alavés,9.9
+177,2017,Athletic Bilbao,9.9
+178,2017,Deportivo de La Coruña,9.9
+179,2017,Málaga CF,9.9
+180,2019,Real Madrid,59.4
+181,2019,Sevilla FC,58.7
+182,2019,Villarreal CF,54.4
+183,2019,Real Sociedad,55.5
+184,2019,Valencia CF,50.8
+185,2019,Athletic Bilbao,49.5
+186,2019,Real Valladolid CF,43.6
+187,2019,Real Betis Balompié,58.9
+188,2019,Celta de Vigo,51.3
+189,2019,RCD Mallorca,44.6
+190,2019,FC Barcelona,67.8
+191,2019,Atlético de Madrid,49.6
+192,2019,Granada CF,42.9
+193,2019,Getafe CF,44.8
+194,2019,CA Osasuna,46.4
+195,2019,Levante UD,47.9
+196,2019,SD Eibar,43.9
+197,2019,Deportivo Alavés,40.7
+198,2019,CD Leganés,44.6
+199,2019,RCD Espanyol Barcelona,44.5
+200,2020,Atlético de Madrid,52.6
+201,2020,FC Barcelona,66.0
+202,2020,Real Sociedad,54.9
+203,2020,Villarreal CF,55.5
+204,2020,Granada CF,41.0
+205,2020,CA Osasuna,42.6
+206,2020,Valencia CF,46.9
+207,2020,Getafe CF,42.5
+208,2020,Elche CF,46.9
+209,2020,Real Valladolid CF,45.4
+210,2020,Real Madrid,59.4
+211,2020,Sevilla FC,61.1
+212,2020,Real Betis Balompié,53.7
+213,2020,Celta de Vigo,53.4
+214,2020,Athletic Bilbao,49.7
+215,2020,Cádiz CF,34.2
+216,2020,Levante UD,53.0
+217,2020,Deportivo Alavés,42.8
+218,2020,SD Huesca,48.1
+219,2020,SD Eibar,49.6
+220,2021,Real Madrid,59.9
+221,2021,Atlético de Madrid,50.9
+222,2021,Real Betis Balompié,54.1
+223,2021,Villarreal CF,57.0
+224,2021,Valencia CF,43.2
+225,2021,Celta de Vigo,55.5
+226,2021,Elche CF,48.4
+227,2021,Getafe CF,41.2
+228,2021,Cádiz CF,40.2
+229,2021,Levante UD,46.9
+230,2021,FC Barcelona,64.6
+231,2021,Sevilla FC,60.3
+232,2021,Real Sociedad,54.8
+233,2021,Athletic Bilbao,48.0
+234,2021,CA Osasuna,46.2
+235,2021,Rayo Vallecano,49.8
+236,2021,RCD Espanyol Barcelona,47.0
+237,2021,RCD Mallorca,44.9
+238,2021,Granada CF,44.5
+239,2021,Deportivo Alavés,42.1
+240,2015,Bayern Munich,9.9
+241,2015,Bayer 04 Leverkusen,9.9
+242,2015,FC Schalke 04,9.9
+243,2015,Hertha BSC,9.9
+244,2015,1.FC Köln,9.9
+245,2015,FC Ingolstadt 04,9.9
+246,2015,SV Werder Bremen,9.9
+247,2015,TSG 1899 Hoffenheim,9.9
+248,2015,VfB Stuttgart,9.9
+249,2015,Borussia Dortmund,9.9
+250,2015,Borussia Mönchengladbach,9.9
+251,2015,1.FSV Mainz 05,9.9
+252,2015,VfL Wolfsburg,9.9
+253,2015,Hamburger SV,9.9
+254,2015,FC Augsburg,9.9
+255,2015,SV Darmstadt 98,9.9
+256,2015,Eintracht Frankfurt,9.9
+257,2015,Hannover 96,9.9
+258,2016,Bayern Munich,9.9
+259,2016,Borussia Dortmund,9.9
+260,2016,1.FC Köln,9.9
+261,2016,SC Freiburg,9.6
+262,2016,Borussia Mönchengladbach,9.9
+263,2016,Eintracht Frankfurt,9.9
+264,2016,FC Augsburg,9.9
+265,2016,1.FSV Mainz 05,9.9
+266,2016,FC Ingolstadt 04,9.9
+267,2016,RB Leipzig,9.9
+268,2016,TSG 1899 Hoffenheim,9.9
+269,2016,Hertha BSC,9.9
+270,2016,SV Werder Bremen,9.6
+271,2016,FC Schalke 04,9.9
+272,2016,Bayer 04 Leverkusen,9.9
+273,2016,Hamburger SV,9.9
+274,2016,VfL Wolfsburg,9.9
+275,2016,SV Darmstadt 98,9.9
+276,2017,Bayern Munich,9.9
+277,2017,TSG 1899 Hoffenheim,9.9
+278,2017,Bayer 04 Leverkusen,9.9
+279,2017,VfB Stuttgart,9.9
+280,2017,Borussia Mönchengladbach,9.9
+281,2017,SV Werder Bremen,9.9
+282,2017,Hannover 96,9.9
+283,2017,SC Freiburg,9.9
+284,2017,Hamburger SV,9.9
+285,2017,FC Schalke 04,9.9
+286,2017,Borussia Dortmund,9.9
+287,2017,RB Leipzig,9.9
+288,2017,Eintracht Frankfurt,9.9
+289,2017,Hertha BSC,9.9
+290,2017,FC Augsburg,9.9
+291,2017,1.FSV Mainz 05,9.9
+292,2017,VfL Wolfsburg,9.9
+293,2017,1.FC Köln,9.9
+294,2019,Bayern Munich,65.4
+295,2019,RB Leipzig,57.3
+296,2019,Bayer 04 Leverkusen,61.5
+297,2019,VfL Wolfsburg,47.3
+298,2019,Eintracht Frankfurt,52.1
+299,2019,1.FC Union Berlin,40.6
+300,2019,1.FSV Mainz 05,41.2
+301,2019,FC Augsburg,38.5
+302,2019,Fortuna Düsseldorf,48.8
+303,2019,Borussia Dortmund,60.1
+304,2019,Borussia Mönchengladbach,52.9
+305,2019,TSG 1899 Hoffenheim,50.6
+306,2019,SC Freiburg,49.2
+307,2019,Hertha BSC,45.4
+308,2019,FC Schalke 04,48.6
+309,2019,1.FC Köln,45.5
+310,2019,SV Werder Bremen,48.5
+311,2019,SC Paderborn 07,46.2
+312,2020,Bayern Munich,61.2
+313,2020,Borussia Dortmund,59.5
+314,2020,Eintracht Frankfurt,54.0
+315,2020,1.FC Union Berlin,44.3
+316,2020,VfB Stuttgart,51.7
+317,2020,TSG 1899 Hoffenheim,51.0
+318,2020,FC Augsburg,41.1
+319,2020,Arminia Bielefeld,42.2
+320,2020,SV Werder Bremen,43.7
+321,2020,RB Leipzig,59.9
+322,2020,VfL Wolfsburg,51.1
+323,2020,Bayer 04 Leverkusen,60.1
+324,2020,Borussia Mönchengladbach,52.1
+325,2020,SC Freiburg,47.5
+326,2020,1.FSV Mainz 05,40.3
+327,2020,Hertha BSC,49.4
+328,2020,1.FC Köln,46.3
+329,2020,FC Schalke 04,44.9
+330,2021,Bayern Munich,64.8
+331,2021,Bayer 04 Leverkusen,54.2
+332,2021,1.FC Union Berlin,43.5
+333,2021,1.FC Köln,55.0
+334,2021,TSG 1899 Hoffenheim,53.5
+335,2021,Eintracht Frankfurt,49.5
+336,2021,VfL Bochum,44.8
+337,2021,VfB Stuttgart,50.7
+338,2021,Arminia Bielefeld,40.5
+339,2021,Borussia Dortmund,58.9
+340,2021,RB Leipzig,56.5
+341,2021,SC Freiburg,50.0
+342,2021,1.FSV Mainz 05,45.9
+343,2021,Borussia Mönchengladbach,54.1
+344,2021,VfL Wolfsburg,50.3
+345,2021,FC Augsburg,41.2
+346,2021,Hertha BSC,43.5
+347,2021,SpVgg Greuther Fürth,42.7
+348,2015,Juventus FC,9.9
+349,2015,AS Roma,9.9
+350,2015,ACF Fiorentina,9.9
+351,2015,AC Milan,9.9
+352,2015,Chievo Verona,9.9
+353,2015,FC Empoli,9.9
+354,2015,Atalanta BC,9.9
+355,2015,UC Sampdoria,9.9
+356,2015,Palermo FC,9.9
+357,2015,Frosinone Calcio,9.9
+358,2015,SSC Napoli,9.9
+359,2015,Inter Milan,9.9
+360,2015,US Sassuolo,9.9
+361,2015,SS Lazio,9.9
+362,2015,Genoa CFC,9.9
+363,2015,Torino FC,9.9
+364,2015,Bologna FC 1909,9.9
+365,2015,Udinese Calcio,9.9
+366,2015,AC Carpi,9.9
+367,2015,Hellas Verona,9.9
+368,2016,Juventus FC,9.6
+369,2016,SSC Napoli,9.6
+370,2016,SS Lazio,9.9
+371,2016,Inter Milan,9.9
+372,2016,Torino FC,9.9
+373,2016,Cagliari Calcio,9.9
+374,2016,Udinese Calcio,9.9
+375,2016,Bologna FC 1909,9.9
+376,2016,FC Crotone,9.9
+377,2016,Palermo FC,9.9
+378,2016,AS Roma,9.9
+379,2016,Atalanta BC,9.8
+380,2016,AC Milan,9.9
+381,2016,ACF Fiorentina,9.9
+382,2016,UC Sampdoria,9.9
+383,2016,US Sassuolo,9.9
+384,2016,Chievo Verona,9.9
+385,2016,Genoa CFC,9.9
+386,2016,FC Empoli,9.9
+387,2016,Delfino Pescara 1936,9.9
+388,2017,Juventus FC,9.9
+389,2017,AS Roma,9.9
+390,2017,SS Lazio,9.9
+391,2017,Atalanta BC,9.9
+392,2017,UC Sampdoria,9.9
+393,2017,US Sassuolo,9.9
+394,2017,Chievo Verona,9.9
+395,2017,Cagliari Calcio,9.9
+396,2017,SPAL,9.9
+397,2017,Hellas Verona,9.9
+398,2017,SSC Napoli,9.9
+399,2017,Inter Milan,9.9
+400,2017,AC Milan,9.9
+401,2017,ACF Fiorentina,9.6
+402,2017,Torino FC,9.6
+403,2017,Genoa CFC,9.9
+404,2017,Udinese Calcio,9.9
+405,2017,Bologna FC 1909,9.9
+406,2017,FC Crotone,9.9
+407,2017,Benevento Calcio,9.4
+408,2019,Juventus FC,57.5
+409,2019,Atalanta BC,58.9
+410,2019,AS Roma,53.9
+411,2019,SSC Napoli,60.1
+412,2019,Hellas Verona,51.2
+413,2019,Parma Calcio 1913,43.4
+414,2019,Udinese Calcio,44.8
+415,2019,UC Sampdoria,42.3
+416,2019,Genoa CFC,47.4
+417,2019,Brescia Calcio,39.9
+418,2019,Inter Milan,54.9
+419,2019,SS Lazio,49.0
+420,2019,AC Milan,54.7
+421,2019,US Sassuolo,59.4
+422,2019,ACF Fiorentina,46.7
+423,2019,Bologna FC 1909,52.1
+424,2019,Cagliari Calcio,44.3
+425,2019,Torino FC,47.5
+426,2019,US Lecce,44.8
+427,2019,SPAL,47.5
+428,2020,Inter Milan,52.3
+429,2020,Atalanta BC,54.7
+430,2020,SSC Napoli,55.1
+431,2020,AS Roma,52.6
+432,2020,UC Sampdoria,45.1
+433,2020,Genoa CFC,44.5
+434,2020,Udinese Calcio,46.1
+435,2020,Spezia Calcio,52.2
+436,2020,Torino FC,47.3
+437,2020,FC Crotone,46.2
+438,2020,AC Milan,51.9
+439,2020,Juventus FC,57.1
+440,2020,SS Lazio,53.1
+441,2020,US Sassuolo,60.8
+442,2020,Hellas Verona,49.4
+443,2020,Bologna FC 1909,50.8
+444,2020,ACF Fiorentina,46.1
+445,2020,Cagliari Calcio,44.5
+446,2020,Benevento Calcio,42.3
+447,2020,Parma Calcio 1913,47.6
+448,2021,AC Milan,54.4
+449,2021,SSC Napoli,58.4
+450,2021,SS Lazio,55.6
+451,2021,ACF Fiorentina,57.6
+452,2021,Hellas Verona,51.5
+453,2021,US Sassuolo,54.9
+454,2021,Bologna FC 1909,50.9
+455,2021,UC Sampdoria,45.9
+456,2021,US Salernitana 1919,40.4
+457,2021,Genoa CFC,43.9
+458,2021,Inter Milan,56.6
+459,2021,Juventus FC,51.3
+460,2021,AS Roma,51.0
+461,2021,Atalanta BC,55.1
+462,2021,Torino FC,53.8
+463,2021,Udinese Calcio,42.3
+464,2021,FC Empoli,47.1
+465,2021,Spezia Calcio,43.1
+466,2021,Cagliari Calcio,44.5
+467,2021,Venezia FC,41.9
+468,2015,Paris Saint-Germain,9.9
+469,2015,AS Monaco,9.9
+470,2015,LOSC Lille,9.9
+471,2015,SM Caen,9.9
+472,2015,Angers SCO,9.9
+473,2015,FC Girondins Bordeaux,9.9
+474,2015,Olympique Marseille,9.9
+475,2015,FC Lorient,9.9
+476,2015,FC Toulouse,9.9
+477,2015,GFC Ajaccio,9.9
+478,2015,Olympique Lyon,9.9
+479,2015,OGC Nice,9.9
+480,2015,AS Saint-Étienne,9.9
+481,2015,Stade Rennais FC,9.9
+482,2015,SC Bastia,9.9
+483,2015,Montpellier HSC,9.9
+484,2015,FC Nantes,9.9
+485,2015,EA Guingamp,9.9
+486,2015,Stade Reims,9.9
+487,2015,ESTAC Troyes,9.9
+488,2016,AS Monaco,9.9
+489,2016,OGC Nice,9.9
+490,2016,Olympique Marseille,9.9
+491,2016,FC Nantes,9.9
+492,2016,Stade Rennais FC,9.9
+493,2016,LOSC Lille,9.9
+494,2016,FC Toulouse,9.9
+495,2016,Montpellier HSC,9.9
+496,2016,SM Caen,9.9
+497,2016,AS Nancy-Lorraine,9.9
+498,2016,Paris Saint-Germain,9.9
+499,2016,Olympique Lyon,9.9
+500,2016,FC Girondins Bordeaux,9.9
+501,2016,AS Saint-Étienne,9.9
+502,2016,EA Guingamp,9.9
+503,2016,Angers SCO,9.9
+504,2016,FC Metz,9.9
+505,2016,Dijon FCO,9.9
+506,2016,FC Lorient,9.9
+507,2016,SC Bastia,9.9
+508,2017,Paris Saint-Germain,9.9
+509,2017,Olympique Lyon,9.9
+510,2017,Stade Rennais FC,9.9
+511,2017,AS Saint-Étienne,9.9
+512,2017,FC Nantes,9.9
+513,2017,Dijon FCO,9.9
+514,2017,Amiens SC,9.9
+515,2017,RC Strasbourg Alsace,9.9
+516,2017,LOSC Lille,9.9
+517,2017,ESTAC Troyes,9.9
+518,2017,AS Monaco,9.9
+519,2017,Olympique Marseille,9.9
+520,2017,FC Girondins Bordeaux,9.9
+521,2017,OGC Nice,9.9
+522,2017,Montpellier HSC,9.9
+523,2017,EA Guingamp,9.9
+524,2017,Angers SCO,9.9
+525,2017,SM Caen,9.9
+526,2017,FC Toulouse,9.9
+527,2017,FC Metz,9.9
+528,2018,Paris Saint-Germain,9.9
+529,2018,Olympique Lyon,0.0
+530,2018,Olympique Marseille,0.0
+531,2018,OGC Nice,0.0
+532,2018,Nîmes Olympique,0.0
+533,2018,RC Strasbourg Alsace,0.0
+534,2018,Angers SCO,9.9
+535,2018,Amiens SC,9.9
+536,2018,AS Monaco,0.0
+537,2018,SM Caen,0.0
+538,2018,LOSC Lille,0.0
+539,2018,AS Saint-Étienne,0.0
+540,2018,Montpellier HSC,9.9
+541,2018,Stade Reims,0.0
+542,2018,Stade Rennais FC,0.0
+543,2018,FC Nantes,9.9
+544,2018,FC Girondins Bordeaux,0.0
+545,2018,FC Toulouse,0.0
+546,2018,Dijon FCO,0.0
+547,2018,EA Guingamp,0.0
+548,2019,Paris Saint-Germain,65.7
+549,2019,Stade Rennais FC,49.3
+550,2019,Stade Reims,52.9
+551,2019,Olympique Lyon,54.5
+552,2019,AS Monaco,52.6
+553,2019,RC Strasbourg Alsace,50.4
+554,2019,FC Nantes,46.1
+555,2019,FC Metz,43.5
+556,2019,AS Saint-Étienne,47.0
+557,2019,Amiens SC,45.4
+558,2019,Olympique Marseille,56.7
+559,2019,LOSC Lille,54.9
+560,2019,OGC Nice,54.1
+561,2019,Montpellier HSC,46.6
+562,2019,Angers SCO,45.5
+563,2019,FC Girondins Bordeaux,56.2
+564,2019,Stade Brestois 29,49.6
+565,2019,Dijon FCO,46.0
+566,2019,Nîmes Olympique,47.7
+567,2019,FC Toulouse,40.9
+568,2020,LOSC Lille,53.9
+569,2020,AS Monaco,55.9
+570,2020,Olympique Marseille,53.9
+571,2020,RC Lens,51.1
+572,2020,OGC Nice,54.4
+573,2020,AS Saint-Étienne,48.3
+574,2020,Angers SCO,46.3
+575,2020,RC Strasbourg Alsace,45.6
+576,2020,Stade Brestois 29,49.6
+577,2020,Nîmes Olympique,43.8
+578,2020,Paris Saint-Germain,63.4
+579,2020,Olympique Lyon,54.9
+580,2020,Stade Rennais FC,59.5
+581,2020,Montpellier HSC,45.3
+582,2020,FC Metz,45.3
+583,2020,FC Girondins Bordeaux,49.7
+584,2020,Stade Reims,43.9
+585,2020,FC Lorient,44.2
+586,2020,FC Nantes,43.8
+587,2020,Dijon FCO,45.9
+588,2021,Paris Saint-Germain,63.3
+589,2021,AS Monaco,53.7
+590,2021,OGC Nice,51.5
+591,2021,RC Lens,51.8
+592,2021,FC Nantes,43.6
+593,2021,Stade Brestois 29,43.8
+594,2021,Montpellier HSC,48.0
+595,2021,ESTAC Troyes,44.2
+596,2021,Clermont Foot 63,49.9
+597,2021,FC Metz,42.8
+598,2021,Olympique Marseille,62.1
+599,2021,Stade Rennais FC,56.3
+600,2021,RC Strasbourg Alsace,49.3
+601,2021,Olympique Lyon,58.6
+602,2021,LOSC Lille,50.8
+603,2021,Stade Reims,42.1
+604,2021,Angers SCO,48.6
+605,2021,FC Lorient,44.2
+606,2021,AS Saint-Étienne,48.7
+607,2021,FC Girondins Bordeaux,47.3
