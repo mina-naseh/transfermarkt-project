@@ -1,7 +1,8 @@
+from datetime import datetime
 from typing import List
 
-from sqlalchemy import (URL, VARCHAR, BigInteger, Float, ForeignKey, Integer,
-                        create_engine, text)
+from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
+                        Integer, create_engine, text)
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
@@ -92,6 +93,17 @@ class PlayingPosition(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(15))
+    players: Mapped[List["Player"]] = relationship(back_populates="playing_position")
+
+
+class Player(Base):
+    __tablename__ = "player"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    name: Mapped[str] = mapped_column(VARCHAR(50))
+    birthday: Mapped[datetime.date] = mapped_column(Date())
+    height: Mapped[int] = mapped_column(Integer())
+    playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
 
 
 Base.metadata.create_all(bind=engine)
