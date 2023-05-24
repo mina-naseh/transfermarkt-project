@@ -1,5 +1,7 @@
-from sqlalchemy import URL, VARCHAR, Integer, create_engine, text
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from typing import List
+
+from sqlalchemy import URL, VARCHAR, Integer, create_engine, text, ForeignKey
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
@@ -45,6 +47,15 @@ class Country(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(7))
+    leagues: Mapped[List["League"]] = relationship(back_populates="country")
+
+
+class League(Base):
+    __tablename__ = "league"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    name: Mapped[str] = mapped_column(VARCHAR(20))
+    country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
 
 
 Base.metadata.create_all(bind=engine)
