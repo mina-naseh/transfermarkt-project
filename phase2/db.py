@@ -1,14 +1,21 @@
 from sqlalchemy import URL, VARCHAR, Integer, create_engine, text
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
+
+MYSQL_DRIVER = "mysql+mysqlconnector"
+MYSQL_USERNAME = "root"
+MYSQL_PASSWORD = "XXXXXXXXXXX"
+MYSQL_HOST_NAME = "localhost"
+MYSQL_PORT = 3306
 DB_NAME = "transfermarktdb"
 
 
 url_object = URL.create(
-    "mysql+mysqlconnector",
-    username="root",
-    password="XXXXXXXXXXX",
-    host="localhost",
+    MYSQL_DRIVER ,
+    username = MYSQL_USERNAME,
+    password = MYSQL_PASSWORD,
+    host = MYSQL_HOST_NAME,
+    port = MYSQL_PORT
 )
 engine = create_engine(url_object)
 
@@ -18,10 +25,11 @@ with engine.connect() as conn:
     conn.execute(text(f"CREATE DATABASE {DB_NAME}"))
 
 url_object = URL.create(
-    "mysql+mysqlconnector",
-    username="root",
-    password="XXXXXXXXXXX",
-    host="localhost",
+    MYSQL_DRIVER ,
+    username = MYSQL_USERNAME,
+    password = MYSQL_PASSWORD,
+    host = MYSQL_HOST_NAME,
+    port = MYSQL_PORT,
     database=DB_NAME,
 )
 
