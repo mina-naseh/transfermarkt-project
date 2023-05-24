@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor
 import random
 import time
 
@@ -197,9 +198,9 @@ def extract_player_details(url, game_id, season, player_name, player_id, foot):
         }, ignore_index=True)
 
 
-players_data = pd.read_json("players_initial_data.json")
+players_data = pd.read_json("..\players_initial_data.json")
 
-for i in range(len(players_data)):
+def process_player_data(i):
     id = players_data['id'][i]
     name = players_data['formatted_name'][i]
     season = players_data['season'][i]
@@ -218,3 +219,16 @@ for i in range(len(players_data)):
     player_ownGoals.to_csv("player_ownGoals.csv")
     failed_links.to_csv("failed_links.csv")
     time.sleep(random.randint(2, 10))
+
+with ThreadPoolExecutor(max_workers=5) as executor:
+    executor.map(process_player_data, range(0, 5200))
+
+games_df.to_csv("games1.csv")
+players_df.to_csv("players1.csv")
+agent_df.to_csv("agents1.csv")
+player_games_df.to_csv("player_games1.csv")
+player_cards.to_csv("player_cards1.csv")
+player_goals.to_csv("player_goals1.csv")
+player_assists.to_csv("player_assists1.csv")
+player_ownGoals.to_csv("player_ownGoals1.csv")
+failed_links.to_csv("failed_links1.csv")
