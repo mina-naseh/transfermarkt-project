@@ -1,9 +1,8 @@
 from datetime import datetime
-from typing import List
 
 from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
                         Integer, create_engine, text)
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
@@ -48,7 +47,6 @@ class Country(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(7))
-    leagues: Mapped[List["League"]] = relationship(back_populates="country")
 
 
 class League(Base):
@@ -57,8 +55,6 @@ class League(Base):
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(20))
     country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
-    team_details: Mapped[List["TeamDetail"]] = relationship(back_populates="league")
-    matches: Mapped[List["TeamDetail"]] = relationship(back_populates="league")
 
 
 class Team(Base):
@@ -66,7 +62,6 @@ class Team(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(20))
-    team_details: Mapped[List["TeamDetail"]] = relationship(back_populates="team")
 
 
 class TeamDetail(Base):
@@ -94,7 +89,6 @@ class PlayingPosition(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(15))
-    players: Mapped[List["Player"]] = relationship(back_populates="playing_position")
 
 
 class Player(Base):
@@ -121,8 +115,28 @@ class Match(Base):
     away_team_goals: Mapped[int] = mapped_column(Integer())
 
 
-Base.metadata.create_all(bind=engine)
+class TeamAppearance(Base):
+    __tablename__ = "team_appearance"
 
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
+    hosting: Mapped[str] = mapped_column(VARCHAR(4))
+
+
+class PlayerAppearance(Base):
+    __tablename__ = "player_appearance"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
+    match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
+    team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    home_team: Mapped[int] = mapped_column(Integer())
+    away_team: Mapped[int] = mapped_column(Integer())
+    playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
+
+
+Base.metadata.create_all(bind=engine)
 
 ###########################################
 # INSERT DATA
