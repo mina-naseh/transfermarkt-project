@@ -58,6 +58,7 @@ class League(Base):
     name: Mapped[str] = mapped_column(VARCHAR(20))
     country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
     team_details: Mapped[List["TeamDetail"]] = relationship(back_populates="league")
+    matches: Mapped[List["TeamDetail"]] = relationship(back_populates="league")
 
 
 class Team(Base):
@@ -104,6 +105,20 @@ class Player(Base):
     birthday: Mapped[datetime.date] = mapped_column(Date())
     height: Mapped[int] = mapped_column(Integer())
     playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
+
+
+class Match(Base):
+    __tablename__ = "match"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    season: Mapped[int] = mapped_column(Integer())
+    date: Mapped[datetime.date] = mapped_column(Date())
+    league_id: Mapped[int] = mapped_column(ForeignKey("league.id"))
+    home_team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    away_team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    result: Mapped[str] = mapped_column(VARCHAR(20))
+    home_team_goals: Mapped[int] = mapped_column(Integer())
+    away_team_goals: Mapped[int] = mapped_column(Integer())
 
 
 Base.metadata.create_all(bind=engine)
