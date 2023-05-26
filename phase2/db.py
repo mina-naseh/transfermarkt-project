@@ -1,12 +1,13 @@
+import json
 from datetime import datetime
 
 from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
                         Integer, create_engine, text)
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "M13121371m$"
+MYSQL_PASSWORD = "XXXXXXXXXXX"
 MYSQL_HOST_NAME = "localhost"
 MYSQL_PORT = 3306
 DB_NAME = "transfermarktdb"
@@ -105,6 +106,7 @@ class Player(Base):
     name: Mapped[str] = mapped_column(VARCHAR(50))
     birthday: Mapped[datetime.date] = mapped_column(Date())
     height: Mapped[int] = mapped_column(Integer())
+    foot: Mapped[str] = mapped_column(VARCHAR(5))
     playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
 
 
@@ -116,7 +118,7 @@ class PlayerDetail(Base):
     season: Mapped[int] = mapped_column(Integer())
     team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
     market_value: Mapped[int] = mapped_column(BigInteger())
-    agent_id: Mapped[int] = mapped_column(ForeignKey("agent.id"))
+    agent_id: Mapped[int] = mapped_column(ForeignKey("agent.id"), nullable=True)
 
 
 class Match(Base):
@@ -186,3 +188,25 @@ Base.metadata.create_all(bind=engine)
 ###########################################
 # INSERT DATA
 ###########################################
+session = Session(engine)
+
+
+###########################################
+# INSERT PLAYERS
+###########################################
+with open("unique_players_initial_data.json") as user_file:
+    file_contents = user_file.read()
+    parsed_json = json.loads(file_contents)
+
+for player in parsed_json:
+    # TO DO: get position id
+    new_data = Player(
+        id=player["id"],
+        name=player["name"],
+        birthday=player["birthday"],
+        height=player["height"],
+        foot=player["foot"],
+    )
+    session.add(new_data)
+
+session.commit()
