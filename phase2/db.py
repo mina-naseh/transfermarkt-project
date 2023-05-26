@@ -57,6 +57,13 @@ class League(Base):
     country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
 
 
+class Agent(Base):
+    __tablename__ = "agent"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    name: Mapped[str] = mapped_column(VARCHAR(20))
+
+
 class Team(Base):
     __tablename__ = "team"
 
@@ -99,6 +106,17 @@ class Player(Base):
     birthday: Mapped[datetime.date] = mapped_column(Date())
     height: Mapped[int] = mapped_column(Integer())
     playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
+
+
+class PlayerDetail(Base):
+    __tablename__ = "player_detail"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
+    season: Mapped[int] = mapped_column(Integer())
+    team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    market_value: Mapped[int] = mapped_column(BigInteger())
+    agent_id: Mapped[int] = mapped_column(ForeignKey("agent.id"))
 
 
 class Match(Base):
