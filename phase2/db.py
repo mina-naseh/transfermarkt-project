@@ -136,6 +136,33 @@ class PlayerAppearance(Base):
     playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
 
 
+class Goal(Base):
+    __tablename__ = "goal"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
+    player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
+    team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    home_team: Mapped[int] = mapped_column(Integer())
+    away_team: Mapped[int] = mapped_column(Integer())
+    time_in_minutes: Mapped[int] = mapped_column(Integer())
+    own_goal: Mapped[int] = mapped_column(Integer())
+    penalty: Mapped[int] = mapped_column(Integer())
+
+
+class Card(Base):
+    __tablename__ = "card"
+
+    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
+    player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
+    team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
+    home_team: Mapped[int] = mapped_column(Integer())
+    away_team: Mapped[int] = mapped_column(Integer())
+    time_in_minutes: Mapped[int] = mapped_column(Integer())
+    type: Mapped[str] = mapped_column(VARCHAR(13))
+
+
 Base.metadata.create_all(bind=engine)
 
 ###########################################
