@@ -4,11 +4,11 @@ from datetime import datetime
 from sqlalchemy import URL, VARCHAR, BigInteger, Date, Float, ForeignKey, Integer, create_engine, text
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
 
-from static_data import countries, leagues
+from static_data import countries, leagues, playing_positions
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "XXXXXXXXXXX"
+MYSQL_PASSWORD = "M13121371m$"
 MYSQL_HOST_NAME = "localhost"
 MYSQL_PORT = 3306
 DB_NAME = "transfermarktdb"
@@ -96,8 +96,8 @@ class TeamDetail(Base):
 class PlayingPosition(Base):
     __tablename__ = "playing_position"
 
-    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
-    name: Mapped[str] = mapped_column(VARCHAR(15))
+    id: Mapped[int] = mapped_column(VARCHAR(2), primary_key=True)
+    name: Mapped[str] = mapped_column(VARCHAR(20))
 
 
 class Player(Base):
@@ -214,22 +214,34 @@ for league in leagues:
     )
     session.add(new_data)
 
+
+###########################################
+# INSERT PLAYING POSITIONS
+###########################################
+for position in playing_positions:
+    new_data = PlayingPosition(
+        id=position["id"],
+        name=position["name"],
+    )
+    session.add(new_data)
+
+
 ###########################################
 # INSERT PLAYERS
 ###########################################
-with open("unique_players_initial_data.json") as user_file:
-    file_contents = user_file.read()
-    parsed_json = json.loads(file_contents)
+# with open("unique_players_initial_data.json") as user_file:
+#     file_contents = user_file.read()
+#     parsed_json = json.loads(file_contents)
 
-for player in parsed_json:
-    # TO DO: get position id
-    new_data = Player(
-        id=player["id"],
-        name=player["name"],
-        birthday=player["birthday"],
-        height=player["height"],
-        foot=player["foot"],
-    )
-    session.add(new_data)
+# for player in parsed_json:
+#     # TO DO: get position id
+#     new_data = Player(
+#         id=player["id"],
+#         name=player["name"],
+#         birthday=player["birthday"],
+#         height=player["height"],
+#         foot=player["foot"],
+#     )
+#     session.add(new_data)
 
 session.commit()
