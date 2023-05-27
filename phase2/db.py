@@ -1,9 +1,10 @@
 import json
 from datetime import datetime
 
-from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
-                        Integer, create_engine, text)
+from sqlalchemy import URL, VARCHAR, BigInteger, Date, Float, ForeignKey, Integer, create_engine, text
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
+
+from static_data import countries, leagues
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
@@ -53,9 +54,9 @@ class Country(Base):
 class League(Base):
     __tablename__ = "league"
 
-    id: Mapped[int] = mapped_column(Integer(), primary_key=True)
+    id: Mapped[int] = mapped_column(VARCHAR(3), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(20))
-    country_id: Mapped[int] = mapped_column(ForeignKey("country.id"))
+    country_id: Mapped[int] = mapped_column(ForeignKey("country.id"), nullable=True)
 
 
 class Agent(Base):
@@ -190,6 +191,28 @@ Base.metadata.create_all(bind=engine)
 ###########################################
 session = Session(engine)
 
+
+###########################################
+# INSERT COUNTRIES
+###########################################
+for country in countries:
+    new_data = Country(
+        id=country["id"],
+        name=country["name"],
+    )
+    session.add(new_data)
+
+
+###########################################
+# INSERT LEAGUES
+###########################################
+for league in leagues:
+    new_data = League(
+        id=league["id"],
+        name=league["name"],
+        country_id=league["country_id"],
+    )
+    session.add(new_data)
 
 ###########################################
 # INSERT PLAYERS
