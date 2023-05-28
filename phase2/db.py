@@ -1,14 +1,25 @@
-import json
+import csv
 from datetime import datetime
 
-from sqlalchemy import URL, VARCHAR, BigInteger, Date, Float, ForeignKey, Integer, create_engine, text
+from sqlalchemy import (
+    URL,
+    VARCHAR,
+    BigInteger,
+    Date,
+    Float,
+    ForeignKey,
+    Integer,
+    create_engine,
+    text,
+    select,
+)
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
 
 from static_data import countries, leagues, playing_positions
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "M13121371m$"
+MYSQL_PASSWORD = "XXXXXXXXXXX"
 MYSQL_HOST_NAME = "localhost"
 MYSQL_PORT = 3306
 DB_NAME = "transfermarktdb"
@@ -105,10 +116,12 @@ class Player(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(50))
-    birthday: Mapped[datetime.date] = mapped_column(Date())
-    height: Mapped[int] = mapped_column(Integer())
-    foot: Mapped[str] = mapped_column(VARCHAR(5))
-    playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
+    birthdate: Mapped[datetime.date] = mapped_column(Date())
+    height: Mapped[int] = mapped_column(Integer(), nullable=True)
+    foot: Mapped[str] = mapped_column(VARCHAR(5), nullable=True)
+    main_playing_position_id: Mapped[int] = mapped_column(
+        ForeignKey("playing_position.id")
+    )
 
 
 class PlayerDetail(Base):
@@ -229,19 +242,32 @@ for position in playing_positions:
 ###########################################
 # INSERT PLAYERS
 ###########################################
-# with open("unique_players_initial_data.json") as user_file:
-#     file_contents = user_file.read()
-#     parsed_json = json.loads(file_contents)
+with open("./players.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for player in file_contents:
+        player_record = session.get(Player, player["player_id"])
+        if not player_record:
+            playing_position_name = (
+                player["main_position"]
+                .replace("midfield", "Central Midfield")
+                .replace("Defender", "Defensive Midfield")
+            )
+            playing_position = session.scalars(
+                select(PlayingPosition).where(
+                    PlayingPosition.name == playing_position_name
+                )
+            ).one()
+            new_data = Player(
+                id=player["player_id"],
+                name=player["player_name"],
+                birthdate=player["birthdate"],
+                height=player["height"]
+                if player["height"] not in ["N/A", ""]
+                else None,
+                foot=player["foot"] if player["foot"] not in ["N/A", ""] else None,
+                main_playing_position_id=playing_position.id,
+            )
+            session.add(new_data)
 
-# for player in parsed_json:
-#     # TO DO: get position id
-#     new_data = Player(
-#         id=player["id"],
-#         name=player["name"],
-#         birthday=player["birthday"],
-#         height=player["height"],
-#         foot=player["foot"],
-#     )
-#     session.add(new_data)
 
 session.commit()

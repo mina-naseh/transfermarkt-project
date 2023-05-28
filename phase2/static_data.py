@@ -26,6 +26,6 @@ playing_positions = [
     {"id": "AM", "name": "Attacking Midfield"},
     {"id": "LW", "name": "Left Winger"},
     {"id": "RW", "name": "Right Winger"},
-    {"id": "CF", "name": "Center Forward"},
+    {"id": "CF", "name": "Centre-Forward"},
     {"id": "SS", "name": "Second Striker"},
 ]
