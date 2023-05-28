@@ -1,0 +1,7 @@
+mysql-connector-python==8.0.33
+SQLAlchemy==2.0.12
+
+# Prettier
+black==23.3.0
+flake8==6.0.0
+isort==5.12.0
