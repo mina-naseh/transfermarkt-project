@@ -81,7 +81,7 @@ class Team(Base):
     __tablename__ = "team"
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
-    name: Mapped[str] = mapped_column(VARCHAR(20))
+    name: Mapped[str] = mapped_column(VARCHAR(30))
 
 
 class TeamDetail(Base):
@@ -226,6 +226,21 @@ for league in leagues:
         country_id=league["country_id"],
     )
     session.add(new_data)
+
+
+###########################################
+# INSERT TEAMS
+###########################################
+with open("./teams_initial_data.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for team in file_contents:
+        team_record = session.get(Team, team["club_id"])
+        if not team_record:
+            new_data = Team(
+                id=team["club_id"],
+                name=team["club_name"],
+            )
+            session.add(new_data)
 
 
 ###########################################
