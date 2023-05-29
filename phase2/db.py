@@ -1,18 +1,9 @@
 import csv
 from datetime import datetime
 
-from sqlalchemy import (
-    URL,
-    VARCHAR,
-    BigInteger,
-    Date,
-    Float,
-    ForeignKey,
-    Integer,
-    create_engine,
-    text,
-    select,
-)
+import pandas as pd
+from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
+                        Integer, create_engine, select, text)
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
 
 from static_data import countries, leagues, playing_positions
@@ -246,37 +237,35 @@ with open("./teams_initial_data.csv", "r") as file:
 ###########################################
 # INSERT TEAM DETAILS
 ###########################################
-with open("./teams_initial_data.csv", "r") as initial_team_data:
-    initial_team_data_contents = csv.DictReader(initial_team_data)
-    with open("./team_details.csv", "r") as more_team_data:
-        more_team_data_contents = csv.DictReader(more_team_data)
-        for initial_info, more_info in zip(initial_team_data_contents, more_team_data_contents):
-            team_league = (
-                session.scalars(
-                    select(League).where(
-                        League.name == initial_info['league']
-                    )
-                )
-                .one()
-                .id
-            )
-            new_data = TeamDetail(
-                team_id = initial_info['club_id'],
-                year = initial_info['season'],
-                league_id = team_league,
-                average_age = initial_info['club_age'],
-                match_played = more_info['num_match'],
-                won = more_info['num_win'],
-                draw = more_info['num_draw'],
-                lost = more_info['num_lose'],
-                goal_for = more_info['goal_zade'],
-                goal_against = more_info['goal_khorde'],
-                goal_diff = more_info['goal_difference'],
-                points = more_info['points'],
-                group_position = more_info['rank'],
-                total_market_value = initial_info['club_tmv'],
-            )
-            session.add(new_data)
+initial_team_data = pd.read_csv("./teams_initial_data.csv")
+more_team_data = pd.read_csv("./team_details.csv")
+team_details_data = pd.merge(
+    initial_team_data,
+    more_team_data,
+    left_on=["club_formatted_name", "season"],
+    right_on=["team_name", "year"],
+)
+for _, row in team_details_data.iterrows():
+    team_league = (
+        session.scalars(select(League).where(League.name == row["league"])).one().id
+    )
+    new_data = TeamDetail(
+        team_id=row["club_id"],
+        year=row["season"],
+        league_id=team_league,
+        average_age=row["club_age"],
+        match_played=row["num_match"],
+        won=row["num_win"],
+        draw=row["num_draw"],
+        lost=row["num_lose"],
+        goal_for=row["goal_zade"],
+        goal_against=row["goal_khorde"],
+        goal_diff=row["goal_difference"],
+        points=row["points"],
+        group_position=row["rank"],
+        total_market_value=row["club_tmv"],
+    )
+    session.add(new_data)
 
 
 ###########################################
