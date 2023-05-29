@@ -1,687 +1,687 @@
-,club_name,club_link,club_id,league,season,club_age,club_tmv
-0,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,631,Premier League,2015,24.7,553500000
-1,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,281,Premier League,2015,25.4,499350000
-2,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,11,Premier League,2015,24.7,457850000
-3,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,985,Premier League,2015,23.5,439850000
-4,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,31,Premier League,2015,23.4,375250000
-5,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,148,Premier League,2015,23.7,371850000
-6,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,29,Premier League,2015,25.7,249850000
-7,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,180,Premier League,2015,25.0,225500000
-8,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,379,Premier League,2015,24.2,201330000
-9,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,762,Premier League,2015,24.5,198000000
-10,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,1003,Premier League,2015,26.9,161100000
-11,Stoke City,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,512,Premier League,2015,27.3,147000000
-12,Swansea City,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,2288,Premier League,2015,25.8,145800000
-13,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,1010,Premier League,2015,27.4,137000000
-14,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,873,Premier League,2015,26.6,135700000
-15,Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,405,Premier League,2015,24.5,117950000
-16,Norwich City,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,1123,Premier League,2015,26.6,116900000
-17,West Bromwich Albion,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,984,Premier League,2015,26.4,113100000
-18,Sunderland AFC,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,289,Premier League,2015,26.5,111250000
-19,AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,989,Premier League,2015,25.1,99900000
-20,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,631,Premier League,2016,24.8,686700000
-21,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,281,Premier League,2016,26.4,576500000
-22,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,148,Premier League,2016,23.7,543650000
-23,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,11,Premier League,2016,24.7,542000000
-24,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,985,Premier League,2016,24.4,531450000
-25,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,31,Premier League,2016,24.4,425650000
-26,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,29,Premier League,2016,25.9,311250000
-27,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,379,Premier League,2016,24.7,273050000
-28,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,180,Premier League,2016,25.3,263750000
-29,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,873,Premier League,2016,26.1,228430000
-30,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,1003,Premier League,2016,26.6,218650000
-31,Stoke City,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,512,Premier League,2016,27.1,186000000
-32,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,1010,Premier League,2016,26.8,175650000
-33,Swansea City,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,2288,Premier League,2016,26.9,157100000
-34,Hull City,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,3008,Premier League,2016,26.0,135850000
-35,Sunderland AFC,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,289,Premier League,2016,25.3,132000000
-36,AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,989,Premier League,2016,24.4,131600000
-37,Middlesbrough FC,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,641,Premier League,2016,27.3,128800000
-38,West Bromwich Albion,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,984,Premier League,2016,27.3,123200000
-39,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,1132,Premier League,2016,26.6,107180000
-40,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2017,281,Premier League,2017,25.1,1010000000
-41,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2017,631,Premier League,2017,24.7,884250000
-42,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2017,31,Premier League,2017,24.9,857500000
-43,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2017,985,Premier League,2017,26.1,849500000
-44,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2017,148,Premier League,2017,24.7,829600000
-45,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2017,11,Premier League,2017,24.8,694000000
-46,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2017,29,Premier League,2017,24.9,381250000
-47,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2017,1003,Premier League,2017,26.5,304250000
-48,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2017,180,Premier League,2017,25.8,297000000
-49,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2017,379,Premier League,2017,25.3,260600000
-50,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2017,873,Premier League,2017,25.8,220730000
-51,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2017,762,Premier League,2017,25.4,208280000
-52,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2017,1010,Premier League,2017,26.8,196000000
-53,Stoke City,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2017,512,Premier League,2017,26.2,192450000
-54,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2017,1132,Premier League,2017,27.8,169300000
-55,West Bromwich Albion,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2017,984,Premier League,2017,26.5,165950000
-56,Swansea City,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2017,2288,Premier League,2017,26.3,165490000
-57,Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2017,1237,Premier League,2017,26.7,148200000
-58,AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2017,989,Premier League,2017,26.0,144500000
-59,Huddersfield Town,https://www.transfermarkt.com/huddersfield-town/startseite/verein/1110/saison_id/2017,1110,Premier League,2017,25.6,106050000
-60,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2018,281,Premier League,2018,24.3,1200000000
-61,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2018,31,Premier League,2018,24.7,1170000000
-62,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2018,631,Premier League,2018,25.6,1170000000
-63,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2018,148,Premier League,2018,25.4,898600000
-64,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2018,985,Premier League,2018,25.3,797600000
-65,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2018,11,Premier League,2018,24.9,659050000
-66,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2018,29,Premier League,2018,26.0,529100000
-67,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2018,1003,Premier League,2018,26.4,434100000
-68,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2018,379,Premier League,2018,26.6,359000000
-69,AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2018,989,Premier League,2018,25.7,310000000
-70,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2018,180,Premier League,2018,24.9,305400000
-71,Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2018,543,Premier League,2018,24.1,302900000
-72,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2018,873,Premier League,2018,26.4,289000000
-73,Fulham FC,https://www.transfermarkt.com/fc-fulham/startseite/verein/931/saison_id/2018,931,Premier League,2018,25.7,254250000
-74,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2018,762,Premier League,2018,26.0,244650000
-75,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2018,1010,Premier League,2018,26.2,239100000
-76,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2018,1132,Premier League,2018,28.1,197250000
-77,Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2018,1237,Premier League,2018,25.8,194350000
-78,Huddersfield Town,https://www.transfermarkt.com/huddersfield-town/startseite/verein/1110/saison_id/2018,1110,Premier League,2018,25.3,137450000
-79,Cardiff City,https://www.transfermarkt.com/cardiff-city/startseite/verein/603/saison_id/2018,603,Premier League,2018,27.3,113000000
-80,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,281,Premier League,2019,25.1,1050000000
-81,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,31,Premier League,2019,23.3,1000000000
-82,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,148,Premier League,2019,24.8,806800000
-83,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,631,Premier League,2019,24.1,705850000
-84,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,985,Premier League,2019,23.9,670450000
-85,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,11,Premier League,2019,24.3,607650000
-86,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,29,Premier League,2019,26.0,420550000
-87,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,1003,Premier League,2019,25.9,411100000
-88,Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,543,Premier League,2019,23.1,320330000
-89,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,379,Premier League,2019,26.5,303600000
-90,AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,989,Premier League,2019,24.8,272180000
-91,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,762,Premier League,2019,26.0,252480000
-92,Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,405,Premier League,2019,25.7,231700000
-93,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,180,Premier League,2019,24.4,210750000
-94,Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,1237,Premier League,2019,24.7,200780000
-95,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,1010,Premier League,2019,25.7,199600000
-96,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,873,Premier League,2019,26.8,189330000
-97,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,1132,Premier League,2019,26.3,163880000
-98,Norwich City,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,1123,Premier League,2019,25.5,145330000
-99,Sheffield United,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,350,Premier League,2019,27.3,138600000
-100,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2020,281,Premier League,2020,24.9,1040000000
-101,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2020,31,Premier League,2020,24.4,969650000
-102,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2020,631,Premier League,2020,25.2,889200000
-103,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2020,985,Premier League,2020,24.9,770050000
-104,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2020,148,Premier League,2020,24.6,703500000
-105,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2020,11,Premier League,2020,24.4,619250000
-106,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2020,29,Premier League,2020,24.7,511200000
-107,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2020,1003,Premier League,2020,25.3,510700000
-108,Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2020,543,Premier League,2020,23.9,450300000
-109,Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2020,405,Premier League,2020,23.3,430750000
-110,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2020,379,Premier League,2020,26.5,334900000
-111,Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2020,1237,Premier League,2020,24.3,290400000
-112,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2020,180,Premier League,2020,24.5,282800000
-113,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2020,762,Premier League,2020,26.9,255350000
-114,Fulham FC,https://www.transfermarkt.com/fc-fulham/startseite/verein/931/saison_id/2020,931,Premier League,2020,26.4,239750000
-115,Leeds United,https://www.transfermarkt.com/leeds-united/startseite/verein/399/saison_id/2020,399,Premier League,2020,24.5,238100000
-116,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2020,873,Premier League,2020,27.7,193850000
-117,Sheffield United,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2020,350,Premier League,2020,24.9,149850000
-118,West Bromwich Albion,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2020,984,Premier League,2020,26.1,141150000
-119,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2020,1132,Premier League,2020,26.6,132300000
-120,Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2021,281,Premier League,2021,24.3,1000000000
-121,Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2021,31,Premier League,2021,24.0,918900000
-122,Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2021,631,Premier League,2021,25.1,914500000
-123,Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2021,985,Premier League,2021,25.5,769150000
-124,Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2021,148,Premier League,2021,23.5,689350000
-125,Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2021,11,Premier League,2021,23.4,613050000
-126,Leicester City,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2021,1003,Premier League,2021,25.1,526550000
-127,Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2021,405,Premier League,2021,24.2,487750000
-128,Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2021,29,Premier League,2021,25.5,479050000
-129,Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2021,543,Premier League,2021,24.4,376950000
-130,West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2021,379,Premier League,2021,26.0,354900000
-131,Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2021,1237,Premier League,2021,24.1,318000000
-132,Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2021,762,Premier League,2021,27.4,313900000
-133,Leeds United,https://www.transfermarkt.com/leeds-united/startseite/verein/399/saison_id/2021,399,Premier League,2021,23.5,299450000
-134,Southampton FC,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2021,180,Premier League,2021,25.1,274300000
-135,Brentford FC,https://www.transfermarkt.com/fc-brentford/startseite/verein/1148/saison_id/2021,1148,Premier League,2021,24.3,273300000
-136,Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2021,873,Premier League,2021,25.9,271050000
-137,Norwich City,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2021,1123,Premier League,2021,24.2,163200000
-138,Watford FC,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2021,1010,Premier League,2021,25.8,156200000
-139,Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2021,1132,Premier League,2021,27.3,138050000
-140,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2015,131,LaLiga,2015,25.9,726000000
-141,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2015,418,LaLiga,2015,24.8,714300000
-142,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2015,13,LaLiga,2015,25.4,418500000
-143,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2015,1049,LaLiga,2015,23.7,254000000
-144,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2015,368,LaLiga,2015,25.8,230300000
-145,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2015,621,LaLiga,2015,27.0,148000000
-146,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2015,1050,LaLiga,2015,25.4,140600000
-147,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2015,681,LaLiga,2015,25.5,119400000
-148,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2015,940,LaLiga,2015,24.6,91100000
-149,Málaga CF,https://www.transfermarkt.com/fc-malaga/startseite/verein/1084/saison_id/2015,1084,LaLiga,2015,27.0,77950000
-150,Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2015,16795,LaLiga,2015,25.9,71500000
-151,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2015,714,LaLiga,2015,25.0,62200000
-152,Deportivo de La Coruña,https://www.transfermarkt.com/deportivo-la-coruna/startseite/verein/897/saison_id/2015,897,LaLiga,2015,28.2,61750000
-153,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2015,1533,LaLiga,2015,25.8,56600000
-154,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2015,150,LaLiga,2015,26.9,56400000
-155,Sporting Gijón,https://www.transfermarkt.com/sporting-gijon/startseite/verein/2448/saison_id/2015,2448,LaLiga,2015,24.7,53200000
-156,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2015,3368,LaLiga,2015,27.3,53100000
-157,Rayo Vallecano,https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/saison_id/2015,367,LaLiga,2015,28.0,49600000
-158,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2015,3709,LaLiga,2015,25.7,49100000
-159,UD Las Palmas,https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472/saison_id/2015,472,LaLiga,2015,27.2,32200000
-160,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2016,418,LaLiga,2016,25.7,802900000
-161,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2016,131,LaLiga,2016,25.8,765300000
-162,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2016,13,LaLiga,2016,24.7,515800000
-163,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2016,368,LaLiga,2016,25.6,270100000
-164,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2016,1049,LaLiga,2016,24.9,257500000
-165,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2016,1050,LaLiga,2016,25.9,190700000
-166,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2016,621,LaLiga,2016,26.9,172600000
-167,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2016,681,LaLiga,2016,25.8,156450000
-168,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2016,940,LaLiga,2016,25.4,122400000
-169,Deportivo de La Coruña,https://www.transfermarkt.com/deportivo-la-coruna/startseite/verein/897/saison_id/2016,897,LaLiga,2016,26.8,94000000
-170,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2016,1108,LaLiga,2016,25.3,85400000
-171,Málaga CF,https://www.transfermarkt.com/fc-malaga/startseite/verein/1084/saison_id/2016,1084,LaLiga,2016,26.0,84300000
-172,UD Las Palmas,https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472/saison_id/2016,472,LaLiga,2016,26.7,84300000
-173,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2016,150,LaLiga,2016,26.3,84200000
-174,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2016,714,LaLiga,2016,27.3,80800000
-175,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2016,1533,LaLiga,2016,25.9,67950000
-176,Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2016,16795,LaLiga,2016,25.2,66450000
-177,CD Leganés,https://www.transfermarkt.com/cd-leganes/startseite/verein/1244/saison_id/2016,1244,LaLiga,2016,26.1,53150000
-178,Sporting Gijón,https://www.transfermarkt.com/sporting-gijon/startseite/verein/2448/saison_id/2016,2448,LaLiga,2016,25.8,46750000
-179,CA Osasuna,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2016,331,LaLiga,2016,25.5,42900000
-180,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2017,131,LaLiga,2017,26.3,1090000000
-181,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2017,418,LaLiga,2017,24.5,955350000
-182,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2017,13,LaLiga,2017,25.4,711150000
-183,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2017,1049,LaLiga,2017,24.3,398050000
-184,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2017,368,LaLiga,2017,26.5,253200000
-185,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2017,621,LaLiga,2017,25.9,249400000
-186,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2017,681,LaLiga,2017,26.3,232950000
-187,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2017,1050,LaLiga,2017,25.4,220000000
-188,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2017,940,LaLiga,2017,24.5,173050000
-189,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2017,150,LaLiga,2017,25.9,132250000
-190,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2017,714,LaLiga,2017,27.3,97800000
-191,UD Las Palmas,https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472/saison_id/2017,472,LaLiga,2017,26.9,91250000
-192,Girona FC,https://www.transfermarkt.com/fc-girona/startseite/verein/12321/saison_id/2017,12321,LaLiga,2017,25.4,81750000
-193,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2017,1108,LaLiga,2017,25.1,74800000
-194,Deportivo de La Coruña,https://www.transfermarkt.com/deportivo-la-coruna/startseite/verein/897/saison_id/2017,897,LaLiga,2017,26.8,66450000
-195,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2017,3709,LaLiga,2017,26.6,65600000
-196,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2017,3368,LaLiga,2017,25.2,61850000
-197,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2017,1533,LaLiga,2017,26.8,60050000
-198,CD Leganés,https://www.transfermarkt.com/cd-leganes/startseite/verein/1244/saison_id/2017,1244,LaLiga,2017,26.8,58550000
-199,Málaga CF,https://www.transfermarkt.com/fc-malaga/startseite/verein/1084/saison_id/2017,1084,LaLiga,2017,25.8,55200000
-200,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2018,131,LaLiga,2018,24.7,1160000000
-201,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2018,13,LaLiga,2018,24.2,969700000
-202,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2018,418,LaLiga,2018,24.7,896100000
-203,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2018,1049,LaLiga,2018,24.8,499650000
-204,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2018,368,LaLiga,2018,26.1,306300000
-205,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2018,681,LaLiga,2018,24.1,300950000
-206,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2018,150,LaLiga,2018,25.4,290750000
-207,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2018,621,LaLiga,2018,26.8,234250000
-208,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2018,940,LaLiga,2018,25.3,234100000
-209,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2018,1050,LaLiga,2018,27.5,230650000
-210,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2018,714,LaLiga,2018,26.8,174700000
-211,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2018,3709,LaLiga,2018,27.3,132200000
-212,CD Leganés,https://www.transfermarkt.com/cd-leganes/startseite/verein/1244/saison_id/2018,1244,LaLiga,2018,25.9,112450000
-213,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2018,1108,LaLiga,2018,25.9,110800000
-214,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2018,3368,LaLiga,2018,25.8,107850000
-215,Girona FC,https://www.transfermarkt.com/fc-girona/startseite/verein/12321/saison_id/2018,12321,LaLiga,2018,25.9,97250000
-216,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2018,1533,LaLiga,2018,27.6,93900000
-217,Rayo Vallecano,https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/saison_id/2018,367,LaLiga,2018,26.2,86700000
-218,Real Valladolid CF,https://www.transfermarkt.com/real-valladolid/startseite/verein/366/saison_id/2018,366,LaLiga,2018,25.1,83000000
-219,SD Huesca,https://www.transfermarkt.com/sd-huesca/startseite/verein/5358/saison_id/2018,5358,LaLiga,2018,26.7,61400000
-220,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2019,131,LaLiga,2019,24.2,930280000
-221,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2019,418,LaLiga,2019,25.6,913750000
-222,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2019,13,LaLiga,2019,24.8,720150000
-223,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2019,1049,LaLiga,2019,25.5,427800000
-224,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2019,681,LaLiga,2019,24.5,347550000
-225,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2019,368,LaLiga,2019,25.7,294750000
-226,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2019,150,LaLiga,2019,25.0,244350000
-227,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2019,621,LaLiga,2019,26.3,211750000
-228,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2019,1050,LaLiga,2019,26.4,208680000
-229,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2019,3709,LaLiga,2019,28.0,175450000
-230,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2019,940,LaLiga,2019,24.9,167000000
-231,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2019,714,LaLiga,2019,25.8,156050000
-232,CD Leganés,https://www.transfermarkt.com/cd-leganes/startseite/verein/1244/saison_id/2019,1244,LaLiga,2019,25.3,109700000
-233,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2019,1108,LaLiga,2019,26.1,106750000
-234,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2019,3368,LaLiga,2019,26.5,90500000
-235,Real Valladolid CF,https://www.transfermarkt.com/real-valladolid/startseite/verein/366/saison_id/2019,366,LaLiga,2019,25.6,87780000
-236,RCD Mallorca,https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237/saison_id/2019,237,LaLiga,2019,26.4,64680000
-237,CA Osasuna,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2019,331,LaLiga,2019,26.4,62780000
-238,Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2019,16795,LaLiga,2019,25.9,56580000
-239,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2019,1533,LaLiga,2019,28.3,53750000
-240,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2020,131,LaLiga,2020,25.1,813500000
-241,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2020,418,LaLiga,2020,24.8,787300000
-242,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2020,13,LaLiga,2020,24.9,773100000
-243,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2020,368,LaLiga,2020,25.6,418250000
-244,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2020,681,LaLiga,2020,24.7,406600000
-245,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2020,1050,LaLiga,2020,25.9,292600000
-246,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2020,1049,LaLiga,2020,24.7,278850000
-247,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2020,150,LaLiga,2020,26.8,207700000
-248,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2020,621,LaLiga,2020,25.9,204150000
-249,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2020,3709,LaLiga,2020,25.4,170100000
-250,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2020,940,LaLiga,2020,24.3,155850000
-251,Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2020,16795,LaLiga,2020,24.9,122650000
-252,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2020,3368,LaLiga,2020,26.5,113000000
-253,CA Osasuna,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2020,331,LaLiga,2020,27.0,96750000
-254,SD Eibar,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533/saison_id/2020,1533,LaLiga,2020,27.1,83400000
-255,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2020,1108,LaLiga,2020,25.6,79800000
-256,SD Huesca,https://www.transfermarkt.com/sd-huesca/startseite/verein/5358/saison_id/2020,5358,LaLiga,2020,26.5,64100000
-257,Real Valladolid CF,https://www.transfermarkt.com/real-valladolid/startseite/verein/366/saison_id/2020,366,LaLiga,2020,26.6,63350000
-258,Cádiz CF,https://www.transfermarkt.com/fc-cadiz/startseite/verein/2687/saison_id/2020,2687,LaLiga,2020,27.2,47650000
-259,Elche CF,https://www.transfermarkt.com/fc-elche/startseite/verein/1531/saison_id/2020,1531,LaLiga,2020,26.7,45650000
-260,Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2021,418,LaLiga,2021,25.7,770750000
-261,FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2021,131,LaLiga,2021,25.1,735600000
-262,Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2021,13,LaLiga,2021,25.3,661800000
-263,Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2021,1050,LaLiga,2021,26.0,408900000
-264,Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2021,368,LaLiga,2021,25.7,385000000
-265,Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2021,681,LaLiga,2021,24.7,376950000
-266,Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2021,1049,LaLiga,2021,23.6,310600000
-267,Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2021,150,LaLiga,2021,27.4,259000000
-268,Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2021,621,LaLiga,2021,25.7,226050000
-269,Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2021,3709,LaLiga,2021,25.2,208680000
-270,RCD Espanyol Barcelona,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2021,714,LaLiga,2021,25.4,131600000
-271,Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2021,940,LaLiga,2021,25.5,120000000
-272,CA Osasuna,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2021,331,LaLiga,2021,26.9,108450000
-273,Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2021,16795,LaLiga,2021,26.5,103750000
-274,Levante UD,https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2021,3368,LaLiga,2021,26.3,77900000
-275,RCD Mallorca,https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237/saison_id/2021,237,LaLiga,2021,25.7,74150000
-276,Elche CF,https://www.transfermarkt.com/fc-elche/startseite/verein/1531/saison_id/2021,1531,LaLiga,2021,27.4,72980000
-277,Cádiz CF,https://www.transfermarkt.com/fc-cadiz/startseite/verein/2687/saison_id/2021,2687,LaLiga,2021,27.3,67800000
-278,Rayo Vallecano,https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/saison_id/2021,367,LaLiga,2021,26.2,67200000
-279,Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2021,1108,LaLiga,2021,25.1,65350000
-280,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2015,27,Bundesliga,2015,25.9,596050000
-281,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2015,16,Bundesliga,2015,24.9,352950000
-282,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2015,82,Bundesliga,2015,25.5,270430000
-283,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2015,15,Bundesliga,2015,24.2,241300000
-284,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2015,33,Bundesliga,2015,24.9,225200000
-285,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2015,18,Bundesliga,2015,25.4,186150000
-286,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2015,533,Bundesliga,2015,24.9,90200000
-287,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2015,39,Bundesliga,2015,25.3,85150000
-288,VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2015,79,Bundesliga,2015,24.8,81180000
-289,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2015,44,Bundesliga,2015,25.3,78930000
-290,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2015,24,Bundesliga,2015,24.9,76600000
-291,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2015,167,Bundesliga,2015,25.9,75830000
-292,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2015,3,Bundesliga,2015,25.0,68630000
-293,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2015,86,Bundesliga,2015,24.6,64680000
-294,Hamburger SV,https://www.transfermarkt.com/hamburger-sv/startseite/verein/41/saison_id/2015,41,Bundesliga,2015,25.8,63200000
-295,Hannover 96,https://www.transfermarkt.com/hannover-96/startseite/verein/42/saison_id/2015,42,Bundesliga,2015,24.6,60830000
-296,FC Ingolstadt 04,https://www.transfermarkt.com/fc-ingolstadt-04/startseite/verein/4795/saison_id/2015,4795,Bundesliga,2015,25.2,35650000
-297,SV Darmstadt 98,https://www.transfermarkt.com/sv-darmstadt-98/startseite/verein/105/saison_id/2015,105,Bundesliga,2015,27.3,25150000
-298,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2016,27,Bundesliga,2016,26.1,562550000
-299,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2016,16,Bundesliga,2016,25.2,390650000
-300,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2016,15,Bundesliga,2016,23.8,265030000
-301,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2016,33,Bundesliga,2016,24.7,217250000
-302,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2016,82,Bundesliga,2016,24.5,203080000
-303,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2016,23826,Bundesliga,2016,23.6,176330000
-304,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2016,18,Bundesliga,2016,24.4,162180000
-305,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2016,533,Bundesliga,2016,24.5,138630000
-306,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2016,3,Bundesliga,2016,25.4,116150000
-307,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2016,39,Bundesliga,2016,24.3,96730000
-308,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2016,44,Bundesliga,2016,25.0,96530000
-309,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2016,86,Bundesliga,2016,25.5,89450000
-310,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2016,60,Bundesliga,2016,25.0,86730000
-311,Hamburger SV,https://www.transfermarkt.com/hamburger-sv/startseite/verein/41/saison_id/2016,41,Bundesliga,2016,24.6,80480000
-312,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2016,24,Bundesliga,2016,24.1,72300000
-313,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2016,167,Bundesliga,2016,26.3,65850000
-314,FC Ingolstadt 04,https://www.transfermarkt.com/fc-ingolstadt-04/startseite/verein/4795/saison_id/2016,4795,Bundesliga,2016,24.8,38630000
-315,SV Darmstadt 98,https://www.transfermarkt.com/sv-darmstadt-98/startseite/verein/105/saison_id/2016,105,Bundesliga,2016,26.7,25980000
-316,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2017,27,Bundesliga,2017,24.7,811850000
-317,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2017,16,Bundesliga,2017,25.0,574200000
-318,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2017,23826,Bundesliga,2017,24.1,373300000
-319,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2017,15,Bundesliga,2017,25.3,357350000
-320,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2017,33,Bundesliga,2017,25.5,274350000
-321,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2017,533,Bundesliga,2017,24.1,212750000
-322,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2017,18,Bundesliga,2017,24.6,193250000
-323,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2017,82,Bundesliga,2017,24.3,143600000
-324,VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2017,79,Bundesliga,2017,24.7,134700000
-325,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2017,44,Bundesliga,2017,24.9,131450000
-326,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2017,24,Bundesliga,2017,25.0,126150000
-327,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2017,86,Bundesliga,2017,25.6,107150000
-328,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2017,60,Bundesliga,2017,25.5,100600000
-329,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2017,167,Bundesliga,2017,25.6,100450000
-330,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2017,39,Bundesliga,2017,25.3,98350000
-331,Hannover 96,https://www.transfermarkt.com/hannover-96/startseite/verein/42/saison_id/2017,42,Bundesliga,2017,25.9,92950000
-332,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2017,3,Bundesliga,2017,24.5,91730000
-333,Hamburger SV,https://www.transfermarkt.com/hamburger-sv/startseite/verein/41/saison_id/2017,41,Bundesliga,2017,24.5,62400000
-334,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2018,27,Bundesliga,2018,25.7,784880000
-335,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2018,16,Bundesliga,2018,24.4,643250000
-336,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2018,23826,Bundesliga,2018,22.6,479000000
-337,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2018,15,Bundesliga,2018,24.6,429400000
-338,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2018,533,Bundesliga,2018,24.4,336250000
-339,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2018,24,Bundesliga,2018,24.8,313400000
-340,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2018,18,Bundesliga,2018,25.2,264300000
-341,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2018,82,Bundesliga,2018,25.1,229250000
-342,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2018,33,Bundesliga,2018,25.1,221300000
-343,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2018,44,Bundesliga,2018,24.4,207630000
-344,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2018,86,Bundesliga,2018,25.8,168050000
-345,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2018,39,Bundesliga,2018,24.7,159730000
-346,VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2018,79,Bundesliga,2018,24.9,143750000
-347,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2018,167,Bundesliga,2018,24.9,139250000
-348,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2018,60,Bundesliga,2018,25.0,122100000
-349,Fortuna Düsseldorf,https://www.transfermarkt.com/fortuna-dusseldorf/startseite/verein/38/saison_id/2018,38,Bundesliga,2018,26.3,94950000
-350,Hannover 96,https://www.transfermarkt.com/hannover-96/startseite/verein/42/saison_id/2018,42,Bundesliga,2018,25.7,91430000
-351,1.FC Nuremberg,https://www.transfermarkt.com/1-fc-nurnberg/startseite/verein/4/saison_id/2018,4,Bundesliga,2018,25.2,54400000
-352,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2019,27,Bundesliga,2019,23.7,777330000
-353,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2019,16,Bundesliga,2019,24.5,654050000
-354,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2019,23826,Bundesliga,2019,23.0,570480000
-355,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2019,15,Bundesliga,2019,25.1,398950000
-356,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2019,18,Bundesliga,2019,25.8,254700000
-357,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2019,533,Bundesliga,2019,26.3,226050000
-358,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2019,33,Bundesliga,2019,24.2,221580000
-359,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2019,44,Bundesliga,2019,24.2,217200000
-360,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2019,24,Bundesliga,2019,26.4,208980000
-361,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2019,82,Bundesliga,2019,24.7,207600000
-362,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2019,86,Bundesliga,2019,26.2,135130000
-363,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2019,60,Bundesliga,2019,25.8,122650000
-364,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2019,39,Bundesliga,2019,23.9,121580000
-365,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2019,167,Bundesliga,2019,25.4,112950000
-366,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2019,3,Bundesliga,2019,25.3,98480000
-367,Fortuna Düsseldorf,https://www.transfermarkt.com/fortuna-dusseldorf/startseite/verein/38/saison_id/2019,38,Bundesliga,2019,26.2,71780000
-368,1.FC Union Berlin,https://www.transfermarkt.com/1-fc-union-berlin/startseite/verein/89/saison_id/2019,89,Bundesliga,2019,26.2,41200000
-369,SC Paderborn 07,https://www.transfermarkt.com/sc-paderborn-07/startseite/verein/127/saison_id/2019,127,Bundesliga,2019,25.3,28900000
-370,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2020,27,Bundesliga,2020,23.9,858230000
-371,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2020,16,Bundesliga,2020,25.0,628400000
-372,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2020,23826,Bundesliga,2020,23.7,574950000
-373,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2020,15,Bundesliga,2020,25.0,373250000
-374,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2020,18,Bundesliga,2020,25.7,300750000
-375,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2020,24,Bundesliga,2020,25.6,269150000
-376,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2020,82,Bundesliga,2020,26.0,256830000
-377,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2020,44,Bundesliga,2020,24.4,228880000
-378,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2020,533,Bundesliga,2020,25.1,228150000
-379,VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2020,79,Bundesliga,2020,23.8,189250000
-380,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2020,39,Bundesliga,2020,24.9,163300000
-381,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2020,60,Bundesliga,2020,25.2,139100000
-382,FC Schalke 04,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33/saison_id/2020,33,Bundesliga,2020,24.8,123050000
-383,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2020,3,Bundesliga,2020,24.9,118200000
-384,SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2020,86,Bundesliga,2020,25.2,111980000
-385,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2020,167,Bundesliga,2020,25.8,93050000
-386,1.FC Union Berlin,https://www.transfermarkt.com/1-fc-union-berlin/startseite/verein/89/saison_id/2020,89,Bundesliga,2020,25.8,82050000
-387,Arminia Bielefeld,https://www.transfermarkt.com/arminia-bielefeld/startseite/verein/10/saison_id/2020,10,Bundesliga,2020,24.9,56730000
-388,Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2021,27,Bundesliga,2021,24.7,790330000
-389,Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2021,16,Bundesliga,2021,23.9,558980000
-390,RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2021,23826,Bundesliga,2021,23.9,498950000
-391,Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2021,15,Bundesliga,2021,24.6,455050000
-392,VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2021,82,Bundesliga,2021,25.3,269300000
-393,Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2021,18,Bundesliga,2021,25.4,236800000
-394,Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2021,24,Bundesliga,2021,25.2,228750000
-395,TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2021,533,Bundesliga,2021,24.9,211430000
-396,SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2021,60,Bundesliga,2021,25.0,176350000
-397,VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2021,79,Bundesliga,2021,23.5,174230000
-398,Hertha BSC,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44/saison_id/2021,44,Bundesliga,2021,24.7,155730000
-399,1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2021,39,Bundesliga,2021,24.9,131030000
-400,1.FC Union Berlin,https://www.transfermarkt.com/1-fc-union-berlin/startseite/verein/89/saison_id/2021,89,Bundesliga,2021,26.6,115900000
-401,1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2021,3,Bundesliga,2021,25.4,99280000
-402,FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2021,167,Bundesliga,2021,25.5,95300000
-403,Arminia Bielefeld,https://www.transfermarkt.com/arminia-bielefeld/startseite/verein/10/saison_id/2021,10,Bundesliga,2021,24.6,65850000
-404,VfL Bochum,https://www.transfermarkt.com/vfl-bochum/startseite/verein/80/saison_id/2021,80,Bundesliga,2021,27.3,52250000
-405,SpVgg Greuther Fürth,https://www.transfermarkt.com/spvgg-greuther-furth/startseite/verein/65/saison_id/2021,65,Bundesliga,2021,24.6,36950000
-406,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2015,506,Serie A,2015,25.5,440000000
-407,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2015,12,Serie A,2015,24.7,332900000
-408,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2015,6195,Serie A,2015,25.9,321930000
-409,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2015,46,Serie A,2015,25.2,294280000
-410,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2015,5,Serie A,2015,25.5,213830000
-411,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2015,430,Serie A,2015,26.1,190530000
-412,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2015,398,Serie A,2015,25.7,175300000
-413,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2015,1038,Serie A,2015,26.0,126530000
-414,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2015,252,Serie A,2015,24.2,117550000
-415,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2015,6574,Serie A,2015,24.7,97000000
-416,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2015,410,Serie A,2015,26.3,93000000
-417,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2015,416,Serie A,2015,25.7,89830000
-418,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2015,800,Serie A,2015,26.8,78450000
-419,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2015,1025,Serie A,2015,25.7,75230000
-420,Empoli FC,https://www.transfermarkt.com/fc-empoli/startseite/verein/749/saison_id/2015,749,Serie A,2015,24.1,74600000
-421,US Palermo,https://www.transfermarkt.com/palermo-fc/startseite/verein/458/saison_id/2015,458,Serie A,2015,24.5,68680000
-422,Carpi FC 1909,https://www.transfermarkt.com/carpi-fc-1909/startseite/verein/4102/saison_id/2015,4102,Serie A,2015,25.9,52050000
-423,Chievo Verona,https://www.transfermarkt.com/chievo-verona/startseite/verein/862/saison_id/2015,862,Serie A,2015,27.5,49780000
-424,Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2015,276,Serie A,2015,25.9,47730000
-425,Frosinone Calcio,https://www.transfermarkt.com/frosinone-calcio/startseite/verein/8970/saison_id/2015,8970,Serie A,2015,26.2,38300000
-426,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2016,506,Serie A,2016,26.2,497180000
-427,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2016,6195,Serie A,2016,25.7,387300000
-428,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2016,12,Serie A,2016,23.7,354680000
-429,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2016,46,Serie A,2016,25.4,328300000
-430,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2016,5,Serie A,2016,24.9,254330000
-431,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2016,398,Serie A,2016,23.7,226450000
-432,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2016,430,Serie A,2016,24.1,217080000
-433,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2016,416,Serie A,2016,24.3,162350000
-434,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2016,800,Serie A,2016,25.5,161700000
-435,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2016,6574,Serie A,2016,24.5,145250000
-436,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2016,1038,Serie A,2016,24.7,117580000
-437,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2016,252,Serie A,2016,25.8,108180000
-438,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2016,410,Serie A,2016,24.5,101950000
-439,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2016,1025,Serie A,2016,24.7,95000000
-440,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2016,1390,Serie A,2016,24.7,61080000
-441,Empoli FC,https://www.transfermarkt.com/fc-empoli/startseite/verein/749/saison_id/2016,749,Serie A,2016,24.5,55450000
-442,Delfino Pescara 1936,https://www.transfermarkt.com/delfino-pescara-1936/startseite/verein/2921/saison_id/2016,2921,Serie A,2016,24.7,48100000
-443,Chievo Verona,https://www.transfermarkt.com/chievo-verona/startseite/verein/862/saison_id/2016,862,Serie A,2016,26.3,45880000
-444,US Palermo,https://www.transfermarkt.com/palermo-fc/startseite/verein/458/saison_id/2016,458,Serie A,2016,24.4,41100000
-445,FC Crotone,https://www.transfermarkt.com/fc-crotone/startseite/verein/4083/saison_id/2016,4083,Serie A,2016,25.0,36700000
-446,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2017,506,Serie A,2017,26.6,653150000
-447,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2017,6195,Serie A,2017,25.2,504250000
-448,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2017,46,Serie A,2017,25.9,487280000
-449,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2017,12,Serie A,2017,23.7,469100000
-450,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2017,398,Serie A,2017,24.8,408780000
-451,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2017,5,Serie A,2017,24.5,407050000
-452,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2017,430,Serie A,2017,23.8,237330000
-453,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2017,800,Serie A,2017,23.6,207950000
-454,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2017,1038,Serie A,2017,24.6,190450000
-455,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2017,416,Serie A,2017,23.8,175530000
-456,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2017,252,Serie A,2017,26.0,135130000
-457,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2017,6574,Serie A,2017,25.0,126780000
-458,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2017,410,Serie A,2017,24.0,108030000
-459,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2017,1025,Serie A,2017,25.3,103550000
-460,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2017,1390,Serie A,2017,25.4,98580000
-461,SPAL 2013,https://www.transfermarkt.com/spal/startseite/verein/2722/saison_id/2017,2722,Serie A,2017,25.4,63550000
-462,Benevento Calcio,https://www.transfermarkt.com/benevento-calcio/startseite/verein/4171/saison_id/2017,4171,Serie A,2017,25.1,57830000
-463,Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2017,276,Serie A,2017,25.5,56500000
-464,Chievo Verona,https://www.transfermarkt.com/chievo-verona/startseite/verein/862/saison_id/2017,862,Serie A,2017,27.4,55230000
-465,FC Crotone,https://www.transfermarkt.com/fc-crotone/startseite/verein/4083/saison_id/2017,4083,Serie A,2017,24.1,47880000
-466,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2018,506,Serie A,2018,25.0,871050000
-467,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2018,6195,Serie A,2018,24.3,646800000
-468,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2018,46,Serie A,2018,24.0,617930000
-469,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2018,5,Serie A,2018,24.4,578480000
-470,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2018,12,Serie A,2018,23.7,459050000
-471,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2018,800,Serie A,2018,22.7,367680000
-472,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2018,430,Serie A,2018,22.9,315330000
-473,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2018,398,Serie A,2018,24.4,291150000
-474,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2018,6574,Serie A,2018,23.8,242050000
-475,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2018,416,Serie A,2018,23.7,239230000
-476,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2018,1038,Serie A,2018,23.5,216750000
-477,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2018,410,Serie A,2018,24.7,201200000
-478,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2018,252,Serie A,2018,23.8,191730000
-479,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2018,1390,Serie A,2018,25.9,155380000
-480,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2018,1025,Serie A,2018,25.0,119680000
-481,Empoli FC,https://www.transfermarkt.com/fc-empoli/startseite/verein/749/saison_id/2018,749,Serie A,2018,24.1,105600000
-482,SPAL,https://www.transfermarkt.com/spal/startseite/verein/2722/saison_id/2018,2722,Serie A,2018,25.3,97400000
-483,Parma Calcio 1913,https://www.transfermarkt.com/parma-calcio-1913/startseite/verein/130/saison_id/2018,130,Serie A,2018,25.6,95750000
-484,Chievo Verona,https://www.transfermarkt.com/chievo-verona/startseite/verein/862/saison_id/2018,862,Serie A,2018,24.7,54700000
-485,Frosinone Calcio,https://www.transfermarkt.com/frosinone-calcio/startseite/verein/8970/saison_id/2018,8970,Serie A,2018,25.8,54530000
-486,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2019,506,Serie A,2019,26.8,661880000
-487,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2019,46,Serie A,2019,26.7,606050000
-488,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2019,6195,Serie A,2019,26.7,548280000
-489,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2019,5,Serie A,2019,25.2,404330000
-490,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2019,12,Serie A,2019,25.6,392730000
-491,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2019,398,Serie A,2019,26.1,303880000
-492,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2019,430,Serie A,2019,24.7,302230000
-493,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2019,800,Serie A,2019,24.9,291430000
-494,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2019,6574,Serie A,2019,24.3,167980000
-495,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2019,1390,Serie A,2019,25.8,167830000
-496,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2019,416,Serie A,2019,24.7,163550000
-497,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2019,252,Serie A,2019,26.2,142380000
-498,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2019,1038,Serie A,2019,25.1,135280000
-499,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2019,1025,Serie A,2019,24.5,129650000
-500,Parma Calcio 1913,https://www.transfermarkt.com/parma-calcio-1913/startseite/verein/130/saison_id/2019,130,Serie A,2019,26.1,128750000
-501,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2019,410,Serie A,2019,24.9,121080000
-502,Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2019,276,Serie A,2019,25.0,112530000
-503,Brescia Calcio,https://www.transfermarkt.com/brescia-calcio/startseite/verein/19/saison_id/2019,19,Serie A,2019,25.9,83230000
-504,SPAL,https://www.transfermarkt.com/spal/startseite/verein/2722/saison_id/2019,2722,Serie A,2019,25.6,73630000
-505,US Lecce,https://www.transfermarkt.com/us-lecce/startseite/verein/1005/saison_id/2019,1005,Serie A,2019,25.0,52330000
-506,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2020,46,Serie A,2020,25.2,663900000
-507,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2020,506,Serie A,2020,24.7,633300000
-508,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2020,5,Serie A,2020,23.9,547780000
-509,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2020,6195,Serie A,2020,26.0,530200000
-510,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2020,800,Serie A,2020,25.0,430000000
-511,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2020,12,Serie A,2020,24.6,395650000
-512,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2020,398,Serie A,2020,25.6,326330000
-513,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2020,430,Serie A,2020,25.7,286800000
-514,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2020,6574,Serie A,2020,24.9,241740000
-515,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2020,1390,Serie A,2020,25.4,187830000
-516,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2020,416,Serie A,2020,25.4,175280000
-517,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2020,410,Serie A,2020,25.8,173000000
-518,Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2020,276,Serie A,2020,24.2,157210000
-519,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2020,1025,Serie A,2020,24.1,153600000
-520,Parma Calcio 1913,https://www.transfermarkt.com/parma-calcio-1913/startseite/verein/130/saison_id/2020,130,Serie A,2020,25.1,128700000
-521,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2020,1038,Serie A,2020,26.4,127180000
-522,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2020,252,Serie A,2020,26.5,111930000
-523,Spezia Calcio,https://www.transfermarkt.com/spezia-calcio/startseite/verein/3522/saison_id/2020,3522,Serie A,2020,25.7,71680000
-524,FC Crotone,https://www.transfermarkt.com/fc-crotone/startseite/verein/4083/saison_id/2020,4083,Serie A,2020,26.0,52750000
-525,Benevento Calcio,https://www.transfermarkt.com/benevento-calcio/startseite/verein/4171/saison_id/2020,4171,Serie A,2020,27.4,50130000
-526,Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2021,506,Serie A,2021,25.0,642500000
-527,Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2021,46,Serie A,2021,27.2,558550000
-528,AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2021,5,Serie A,2021,25.3,546950000
-529,SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2021,6195,Serie A,2021,25.3,477230000
-530,Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2021,800,Serie A,2021,24.5,398750000
-531,AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2021,12,Serie A,2021,23.8,381250000
-532,ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2021,430,Serie A,2021,25.4,325800000
-533,SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2021,398,Serie A,2021,27.2,264480000
-534,US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2021,6574,Serie A,2021,25.0,251000000
-535,Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2021,416,Serie A,2021,24.8,223400000
-536,Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2021,1025,Serie A,2021,23.7,186200000
-537,Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2021,276,Serie A,2021,24.7,162980000
-538,Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2021,410,Serie A,2021,25.0,142300000
-539,Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2021,1390,Serie A,2021,25.0,134530000
-540,UC Sampdoria,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038/saison_id/2021,1038,Serie A,2021,26.2,128550000
-541,FC Empoli,https://www.transfermarkt.com/fc-empoli/startseite/verein/749/saison_id/2021,749,Serie A,2021,24.5,126500000
-542,Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2021,252,Serie A,2021,26.1,121280000
-543,Venezia FC,https://www.transfermarkt.com/venezia-fc/startseite/verein/607/saison_id/2021,607,Serie A,2021,24.7,80980000
-544,Spezia Calcio,https://www.transfermarkt.com/spezia-calcio/startseite/verein/3522/saison_id/2021,3522,Serie A,2021,23.6,78500000
-545,US Salernitana 1919,https://www.transfermarkt.com/us-salernitana-1919/startseite/verein/380/saison_id/2021,380,Serie A,2021,25.9,70560000
-546,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2015,583,Ligue 1,2015,24.9,436300000
-547,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2015,162,Ligue 1,2015,23.3,227400000
-548,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2015,1041,Ligue 1,2015,25.0,166300000
-549,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2015,244,Ligue 1,2015,23.9,129500000
-550,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2015,618,Ligue 1,2015,25.1,97200000
-551,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2015,273,Ligue 1,2015,24.6,94150000
-552,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2015,40,Ligue 1,2015,23.5,90700000
-553,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2015,417,Ligue 1,2015,23.4,70950000
-554,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2015,1082,Ligue 1,2015,25.5,70800000
-555,FC Lorient,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158/saison_id/2015,1158,Ligue 1,2015,24.7,58050000
-556,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2015,969,Ligue 1,2015,25.9,44400000
-557,Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2015,1421,Ligue 1,2015,25.7,42950000
-558,FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2015,415,Ligue 1,2015,24.1,42900000
-559,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2015,995,Ligue 1,2015,24.8,39300000
-560,SM Caen,https://www.transfermarkt.com/sm-caen/startseite/verein/1162/saison_id/2015,1162,Ligue 1,2015,25.6,36800000
-561,EA Guingamp,https://www.transfermarkt.com/ea-guingamp/startseite/verein/855/saison_id/2015,855,Ligue 1,2015,26.8,33500000
-562,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2015,1420,Ligue 1,2015,27.3,32350000
-563,ESTAC Troyes,https://www.transfermarkt.com/es-troyes-ac/startseite/verein/1095/saison_id/2015,1095,Ligue 1,2015,26.3,30700000
-564,SC Bastia,https://www.transfermarkt.com/sc-bastia/startseite/verein/595/saison_id/2015,595,Ligue 1,2015,25.8,24250000
-565,GFC Ajaccio,https://www.transfermarkt.com/gfc-ajaccio/startseite/verein/3558/saison_id/2015,3558,Ligue 1,2015,25.8,18400000
-566,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2016,583,Ligue 1,2016,24.5,519000000
-567,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2016,162,Ligue 1,2016,23.2,309550000
-568,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2016,1041,Ligue 1,2016,23.6,211350000
-569,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2016,417,Ligue 1,2016,23.5,132800000
-570,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2016,244,Ligue 1,2016,25.7,119650000
-571,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2016,40,Ligue 1,2016,24.6,88900000
-572,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2016,618,Ligue 1,2016,24.0,85030000
-573,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2016,1082,Ligue 1,2016,24.6,83900000
-574,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2016,273,Ligue 1,2016,25.0,80900000
-575,FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2016,415,Ligue 1,2016,23.9,77300000
-576,FC Lorient,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158/saison_id/2016,1158,Ligue 1,2016,25.1,61100000
-577,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2016,969,Ligue 1,2016,25.6,60950000
-578,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2016,995,Ligue 1,2016,24.4,50900000
-579,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2016,1420,Ligue 1,2016,26.3,46080000
-580,EA Guingamp,https://www.transfermarkt.com/ea-guingamp/startseite/verein/855/saison_id/2016,855,Ligue 1,2016,26.2,42500000
-581,FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2016,347,Ligue 1,2016,24.5,37550000
-582,SM Caen,https://www.transfermarkt.com/sm-caen/startseite/verein/1162/saison_id/2016,1162,Ligue 1,2016,26.1,36650000
-583,SC Bastia,https://www.transfermarkt.com/sc-bastia/startseite/verein/595/saison_id/2016,595,Ligue 1,2016,25.1,36450000
-584,AS Nancy-Lorraine,https://www.transfermarkt.com/as-nancy-lorraine/startseite/verein/1159/saison_id/2016,1159,Ligue 1,2016,26.1,33100000
-585,Dijon FCO,https://www.transfermarkt.com/dijon-fco/startseite/verein/2969/saison_id/2016,2969,Ligue 1,2016,26.3,31200000
-586,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2017,583,Ligue 1,2017,25.0,900100000
-587,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2017,162,Ligue 1,2017,23.5,529800000
-588,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2017,1041,Ligue 1,2017,23.1,363800000
-589,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2017,244,Ligue 1,2017,26.8,236800000
-590,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2017,417,Ligue 1,2017,23.6,204100000
-591,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2017,40,Ligue 1,2017,24.1,155450000
-592,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2017,273,Ligue 1,2017,24.3,131250000
-593,FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2017,415,Ligue 1,2017,24.5,110450000
-594,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2017,618,Ligue 1,2017,24.8,106880000
-595,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2017,995,Ligue 1,2017,24.6,105700000
-596,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2017,1082,Ligue 1,2017,22.0,96750000
-597,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2017,969,Ligue 1,2017,25.4,71850000
-598,Dijon FCO,https://www.transfermarkt.com/dijon-fco/startseite/verein/2969/saison_id/2017,2969,Ligue 1,2017,25.6,70300000
-599,Amiens SC,https://www.transfermarkt.com/amiens-sc/startseite/verein/1416/saison_id/2017,1416,Ligue 1,2017,27.3,69850000
-600,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2017,1420,Ligue 1,2017,26.1,69550000
-601,SM Caen,https://www.transfermarkt.com/sm-caen/startseite/verein/1162/saison_id/2017,1162,Ligue 1,2017,25.8,60100000
-602,EA Guingamp,https://www.transfermarkt.com/ea-guingamp/startseite/verein/855/saison_id/2017,855,Ligue 1,2017,26.7,51900000
-603,FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2017,347,Ligue 1,2017,24.7,51200000
-604,RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2017,667,Ligue 1,2017,26.3,45600000
-605,ESTAC Troyes,https://www.transfermarkt.com/es-troyes-ac/startseite/verein/1095/saison_id/2017,1095,Ligue 1,2017,26.0,45050000
-606,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2018,583,Ligue 1,2018,24.9,1010000000
-607,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2018,1041,Ligue 1,2018,23.7,467950000
-608,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2018,162,Ligue 1,2018,23.4,385830000
-609,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2018,1082,Ligue 1,2018,23.7,267550000
-610,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2018,244,Ligue 1,2018,26.1,258350000
-611,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2018,417,Ligue 1,2018,22.7,183200000
-612,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2018,40,Ligue 1,2018,23.8,179000000
-613,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2018,273,Ligue 1,2018,23.8,168450000
-614,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2018,618,Ligue 1,2018,24.3,131250000
-615,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2018,995,Ligue 1,2018,24.6,119500000
-616,FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2018,415,Ligue 1,2018,24.1,113250000
-617,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2018,969,Ligue 1,2018,25.7,109850000
-618,RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2018,667,Ligue 1,2018,25.2,98000000
-619,Nîmes Olympique,https://www.transfermarkt.com/nimes-olympique/startseite/verein/1160/saison_id/2018,1160,Ligue 1,2018,25.0,88150000
-620,Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2018,1421,Ligue 1,2018,24.5,86950000
-621,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2018,1420,Ligue 1,2018,26.5,79700000
-622,EA Guingamp,https://www.transfermarkt.com/ea-guingamp/startseite/verein/855/saison_id/2018,855,Ligue 1,2018,25.3,70650000
-623,Amiens SC,https://www.transfermarkt.com/amiens-sc/startseite/verein/1416/saison_id/2018,1416,Ligue 1,2018,25.4,70500000
-624,SM Caen,https://www.transfermarkt.com/sm-caen/startseite/verein/1162/saison_id/2018,1162,Ligue 1,2018,24.8,67550000
-625,Dijon FCO,https://www.transfermarkt.com/dijon-fco/startseite/verein/2969/saison_id/2018,2969,Ligue 1,2018,25.7,65800000
-626,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2019,583,Ligue 1,2019,25.2,874150000
-627,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2019,1041,Ligue 1,2019,24.0,384550000
-628,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2019,162,Ligue 1,2019,25.3,331030000
-629,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2019,1082,Ligue 1,2019,23.7,247780000
-630,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2019,244,Ligue 1,2019,24.3,216150000
-631,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2019,417,Ligue 1,2019,23.1,173450000
-632,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2019,273,Ligue 1,2019,25.0,171880000
-633,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2019,40,Ligue 1,2019,25.0,125350000
-634,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2019,995,Ligue 1,2019,25.0,106150000
-635,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2019,618,Ligue 1,2019,24.8,104830000
-636,RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2019,667,Ligue 1,2019,25.7,91130000
-637,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2019,1420,Ligue 1,2019,25.9,89480000
-638,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2019,969,Ligue 1,2019,26.2,81680000
-639,Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2019,1421,Ligue 1,2019,23.7,81680000
-640,FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2019,415,Ligue 1,2019,23.5,71880000
-641,Amiens SC,https://www.transfermarkt.com/amiens-sc/startseite/verein/1416/saison_id/2019,1416,Ligue 1,2019,25.3,61930000
-642,FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2019,347,Ligue 1,2019,24.4,54100000
-643,Dijon FCO,https://www.transfermarkt.com/dijon-fco/startseite/verein/2969/saison_id/2019,2969,Ligue 1,2019,25.3,50230000
-644,Nîmes Olympique,https://www.transfermarkt.com/nimes-olympique/startseite/verein/1160/saison_id/2019,1160,Ligue 1,2019,23.8,49650000
-645,Stade Brestois 29,https://www.transfermarkt.com/stade-brest-29/startseite/verein/3911/saison_id/2019,3911,Ligue 1,2019,26.0,47780000
-646,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2020,583,Ligue 1,2020,24.2,805000000
-647,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2020,1041,Ligue 1,2020,24.2,431350000
-648,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2020,162,Ligue 1,2020,24.0,370350000
-649,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2020,1082,Ligue 1,2020,23.6,323200000
-650,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2020,273,Ligue 1,2020,24.2,297500000
-651,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2020,244,Ligue 1,2020,24.9,247950000
-652,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2020,417,Ligue 1,2020,22.4,236100000
-653,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2020,618,Ligue 1,2020,23.6,154500000
-654,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2020,969,Ligue 1,2020,25.2,113850000
-655,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2020,1420,Ligue 1,2020,25.8,111650000
-656,RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2020,667,Ligue 1,2020,25.2,109650000
-657,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2020,40,Ligue 1,2020,25.4,105700000
-658,Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2020,1421,Ligue 1,2020,23.1,105180000
-659,RC Lens,https://www.transfermarkt.com/rc-lens/startseite/verein/826/saison_id/2020,826,Ligue 1,2020,24.9,104300000
-660,FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2020,347,Ligue 1,2020,24.6,103500000
-661,Stade Brestois 29,https://www.transfermarkt.com/stade-brest-29/startseite/verein/3911/saison_id/2020,3911,Ligue 1,2020,25.2,103230000
-662,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2020,995,Ligue 1,2020,25.4,94750000
-663,FC Lorient,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158/saison_id/2020,1158,Ligue 1,2020,26.4,72880000
-664,Dijon FCO,https://www.transfermarkt.com/dijon-fco/startseite/verein/2969/saison_id/2020,2969,Ligue 1,2020,24.3,65630000
-665,Nîmes Olympique,https://www.transfermarkt.com/nimes-olympique/startseite/verein/1160/saison_id/2020,1160,Ligue 1,2020,24.9,60400000
-666,Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2021,583,Ligue 1,2021,25.7,875150000
-667,Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2021,1041,Ligue 1,2021,24.3,397700000
-668,AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2021,162,Ligue 1,2021,23.3,396000000
-669,LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2021,1082,Ligue 1,2021,24.0,306880000
-670,Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2021,273,Ligue 1,2021,22.9,305350000
-671,Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2021,244,Ligue 1,2021,23.5,284700000
-672,OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2021,417,Ligue 1,2021,23.8,266050000
-673,RC Lens,https://www.transfermarkt.com/rc-lens/startseite/verein/826/saison_id/2021,826,Ligue 1,2021,24.8,154050000
-674,Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2021,1421,Ligue 1,2021,23.5,149400000
-675,Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2021,969,Ligue 1,2021,24.8,144600000
-676,RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2021,667,Ligue 1,2021,24.8,120050000
-677,FC Girondins Bordeaux,https://www.transfermarkt.com/fc-girondins-bordeaux/startseite/verein/40/saison_id/2021,40,Ligue 1,2021,24.0,116850000
-678,FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2021,995,Ligue 1,2021,25.6,112650000
-679,AS Saint-Étienne,https://www.transfermarkt.com/as-saint-etienne/startseite/verein/618/saison_id/2021,618,Ligue 1,2021,24.0,105650000
-680,Stade Brestois 29,https://www.transfermarkt.com/stade-brest-29/startseite/verein/3911/saison_id/2021,3911,Ligue 1,2021,25.5,103150000
-681,FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2021,347,Ligue 1,2021,25.0,91050000
-682,Angers SCO,https://www.transfermarkt.com/sco-angers/startseite/verein/1420/saison_id/2021,1420,Ligue 1,2021,25.4,89500000
-683,ESTAC Troyes,https://www.transfermarkt.com/es-troyes-ac/startseite/verein/1095/saison_id/2021,1095,Ligue 1,2021,24.6,73200000
-684,FC Lorient,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158/saison_id/2021,1158,Ligue 1,2021,25.4,61300000
-685,Clermont Foot 63,https://www.transfermarkt.com/clermont-foot-63/startseite/verein/3524/saison_id/2021,3524,Ligue 1,2021,25.1,55100000
+,club_name,club_formatted_name,club_id,league,season,club_age,club_tmv
+0,Chelsea FC,fc-chelsea,631,Premier League,2015,24.7,553500000
+1,Manchester City,manchester-city,281,Premier League,2015,25.4,499350000
+2,Arsenal FC,fc-arsenal,11,Premier League,2015,24.7,457850000
+3,Manchester United,manchester-united,985,Premier League,2015,23.5,439850000
+4,Liverpool FC,fc-liverpool,31,Premier League,2015,23.4,375250000
+5,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2015,23.7,371850000
+6,Everton FC,fc-everton,29,Premier League,2015,25.7,249850000
+7,Southampton FC,fc-southampton,180,Premier League,2015,25.0,225500000
+8,West Ham United,west-ham-united,379,Premier League,2015,24.2,201330000
+9,Newcastle United,newcastle-united,762,Premier League,2015,24.5,198000000
+10,Leicester City,leicester-city,1003,Premier League,2015,26.9,161100000
+11,Stoke City,stoke-city,512,Premier League,2015,27.3,147000000
+12,Swansea City,swansea-city,2288,Premier League,2015,25.8,145800000
+13,Watford FC,fc-watford,1010,Premier League,2015,27.4,137000000
+14,Crystal Palace,crystal-palace,873,Premier League,2015,26.6,135700000
+15,Aston Villa,aston-villa,405,Premier League,2015,24.5,117950000
+16,Norwich City,norwich-city,1123,Premier League,2015,26.6,116900000
+17,West Bromwich Albion,west-bromwich-albion,984,Premier League,2015,26.4,113100000
+18,Sunderland AFC,afc-sunderland,289,Premier League,2015,26.5,111250000
+19,AFC Bournemouth,afc-bournemouth,989,Premier League,2015,25.1,99900000
+20,Chelsea FC,fc-chelsea,631,Premier League,2016,24.8,686700000
+21,Manchester City,manchester-city,281,Premier League,2016,26.4,576500000
+22,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2016,23.7,543650000
+23,Arsenal FC,fc-arsenal,11,Premier League,2016,24.7,542000000
+24,Manchester United,manchester-united,985,Premier League,2016,24.4,531450000
+25,Liverpool FC,fc-liverpool,31,Premier League,2016,24.4,425650000
+26,Everton FC,fc-everton,29,Premier League,2016,25.9,311250000
+27,West Ham United,west-ham-united,379,Premier League,2016,24.7,273050000
+28,Southampton FC,fc-southampton,180,Premier League,2016,25.3,263750000
+29,Crystal Palace,crystal-palace,873,Premier League,2016,26.1,228430000
+30,Leicester City,leicester-city,1003,Premier League,2016,26.6,218650000
+31,Stoke City,stoke-city,512,Premier League,2016,27.1,186000000
+32,Watford FC,fc-watford,1010,Premier League,2016,26.8,175650000
+33,Swansea City,swansea-city,2288,Premier League,2016,26.9,157100000
+34,Hull City,hull-city,3008,Premier League,2016,26.0,135850000
+35,Sunderland AFC,afc-sunderland,289,Premier League,2016,25.3,132000000
+36,AFC Bournemouth,afc-bournemouth,989,Premier League,2016,24.4,131600000
+37,Middlesbrough FC,fc-middlesbrough,641,Premier League,2016,27.3,128800000
+38,West Bromwich Albion,west-bromwich-albion,984,Premier League,2016,27.3,123200000
+39,Burnley FC,fc-burnley,1132,Premier League,2016,26.6,107180000
+40,Manchester City,manchester-city,281,Premier League,2017,25.1,1010000000
+41,Chelsea FC,fc-chelsea,631,Premier League,2017,24.7,884250000
+42,Liverpool FC,fc-liverpool,31,Premier League,2017,24.9,857500000
+43,Manchester United,manchester-united,985,Premier League,2017,26.1,849500000
+44,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2017,24.7,829600000
+45,Arsenal FC,fc-arsenal,11,Premier League,2017,24.8,694000000
+46,Everton FC,fc-everton,29,Premier League,2017,24.9,381250000
+47,Leicester City,leicester-city,1003,Premier League,2017,26.5,304250000
+48,Southampton FC,fc-southampton,180,Premier League,2017,25.8,297000000
+49,West Ham United,west-ham-united,379,Premier League,2017,25.3,260600000
+50,Crystal Palace,crystal-palace,873,Premier League,2017,25.8,220730000
+51,Newcastle United,newcastle-united,762,Premier League,2017,25.4,208280000
+52,Watford FC,fc-watford,1010,Premier League,2017,26.8,196000000
+53,Stoke City,stoke-city,512,Premier League,2017,26.2,192450000
+54,Burnley FC,fc-burnley,1132,Premier League,2017,27.8,169300000
+55,West Bromwich Albion,west-bromwich-albion,984,Premier League,2017,26.5,165950000
+56,Swansea City,swansea-city,2288,Premier League,2017,26.3,165490000
+57,Brighton & Hove Albion,brighton-amp-hove-albion,1237,Premier League,2017,26.7,148200000
+58,AFC Bournemouth,afc-bournemouth,989,Premier League,2017,26.0,144500000
+59,Huddersfield Town,huddersfield-town,1110,Premier League,2017,25.6,106050000
+60,Manchester City,manchester-city,281,Premier League,2018,24.3,1200000000
+61,Liverpool FC,fc-liverpool,31,Premier League,2018,24.7,1170000000
+62,Chelsea FC,fc-chelsea,631,Premier League,2018,25.6,1170000000
+63,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2018,25.4,898600000
+64,Manchester United,manchester-united,985,Premier League,2018,25.3,797600000
+65,Arsenal FC,fc-arsenal,11,Premier League,2018,24.9,659050000
+66,Everton FC,fc-everton,29,Premier League,2018,26.0,529100000
+67,Leicester City,leicester-city,1003,Premier League,2018,26.4,434100000
+68,West Ham United,west-ham-united,379,Premier League,2018,26.6,359000000
+69,AFC Bournemouth,afc-bournemouth,989,Premier League,2018,25.7,310000000
+70,Southampton FC,fc-southampton,180,Premier League,2018,24.9,305400000
+71,Wolverhampton Wanderers,wolverhampton-wanderers,543,Premier League,2018,24.1,302900000
+72,Crystal Palace,crystal-palace,873,Premier League,2018,26.4,289000000
+73,Fulham FC,fc-fulham,931,Premier League,2018,25.7,254250000
+74,Newcastle United,newcastle-united,762,Premier League,2018,26.0,244650000
+75,Watford FC,fc-watford,1010,Premier League,2018,26.2,239100000
+76,Burnley FC,fc-burnley,1132,Premier League,2018,28.1,197250000
+77,Brighton & Hove Albion,brighton-amp-hove-albion,1237,Premier League,2018,25.8,194350000
+78,Huddersfield Town,huddersfield-town,1110,Premier League,2018,25.3,137450000
+79,Cardiff City,cardiff-city,603,Premier League,2018,27.3,113000000
+80,Manchester City,manchester-city,281,Premier League,2019,25.1,1050000000
+81,Liverpool FC,fc-liverpool,31,Premier League,2019,23.3,1000000000
+82,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2019,24.8,806800000
+83,Chelsea FC,fc-chelsea,631,Premier League,2019,24.1,705850000
+84,Manchester United,manchester-united,985,Premier League,2019,23.9,670450000
+85,Arsenal FC,fc-arsenal,11,Premier League,2019,24.3,607650000
+86,Everton FC,fc-everton,29,Premier League,2019,26.0,420550000
+87,Leicester City,leicester-city,1003,Premier League,2019,25.9,411100000
+88,Wolverhampton Wanderers,wolverhampton-wanderers,543,Premier League,2019,23.1,320330000
+89,West Ham United,west-ham-united,379,Premier League,2019,26.5,303600000
+90,AFC Bournemouth,afc-bournemouth,989,Premier League,2019,24.8,272180000
+91,Newcastle United,newcastle-united,762,Premier League,2019,26.0,252480000
+92,Aston Villa,aston-villa,405,Premier League,2019,25.7,231700000
+93,Southampton FC,fc-southampton,180,Premier League,2019,24.4,210750000
+94,Brighton & Hove Albion,brighton-amp-hove-albion,1237,Premier League,2019,24.7,200780000
+95,Watford FC,fc-watford,1010,Premier League,2019,25.7,199600000
+96,Crystal Palace,crystal-palace,873,Premier League,2019,26.8,189330000
+97,Burnley FC,fc-burnley,1132,Premier League,2019,26.3,163880000
+98,Norwich City,norwich-city,1123,Premier League,2019,25.5,145330000
+99,Sheffield United,sheffield-united,350,Premier League,2019,27.3,138600000
+100,Manchester City,manchester-city,281,Premier League,2020,24.9,1040000000
+101,Liverpool FC,fc-liverpool,31,Premier League,2020,24.4,969650000
+102,Chelsea FC,fc-chelsea,631,Premier League,2020,25.2,889200000
+103,Manchester United,manchester-united,985,Premier League,2020,24.9,770050000
+104,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2020,24.6,703500000
+105,Arsenal FC,fc-arsenal,11,Premier League,2020,24.4,619250000
+106,Everton FC,fc-everton,29,Premier League,2020,24.7,511200000
+107,Leicester City,leicester-city,1003,Premier League,2020,25.3,510700000
+108,Wolverhampton Wanderers,wolverhampton-wanderers,543,Premier League,2020,23.9,450300000
+109,Aston Villa,aston-villa,405,Premier League,2020,23.3,430750000
+110,West Ham United,west-ham-united,379,Premier League,2020,26.5,334900000
+111,Brighton & Hove Albion,brighton-amp-hove-albion,1237,Premier League,2020,24.3,290400000
+112,Southampton FC,fc-southampton,180,Premier League,2020,24.5,282800000
+113,Newcastle United,newcastle-united,762,Premier League,2020,26.9,255350000
+114,Fulham FC,fc-fulham,931,Premier League,2020,26.4,239750000
+115,Leeds United,leeds-united,399,Premier League,2020,24.5,238100000
+116,Crystal Palace,crystal-palace,873,Premier League,2020,27.7,193850000
+117,Sheffield United,sheffield-united,350,Premier League,2020,24.9,149850000
+118,West Bromwich Albion,west-bromwich-albion,984,Premier League,2020,26.1,141150000
+119,Burnley FC,fc-burnley,1132,Premier League,2020,26.6,132300000
+120,Manchester City,manchester-city,281,Premier League,2021,24.3,1000000000
+121,Liverpool FC,fc-liverpool,31,Premier League,2021,24.0,918900000
+122,Chelsea FC,fc-chelsea,631,Premier League,2021,25.1,914500000
+123,Manchester United,manchester-united,985,Premier League,2021,25.5,769150000
+124,Tottenham Hotspur,tottenham-hotspur,148,Premier League,2021,23.5,689350000
+125,Arsenal FC,fc-arsenal,11,Premier League,2021,23.4,613050000
+126,Leicester City,leicester-city,1003,Premier League,2021,25.1,526550000
+127,Aston Villa,aston-villa,405,Premier League,2021,24.2,487750000
+128,Everton FC,fc-everton,29,Premier League,2021,25.5,479050000
+129,Wolverhampton Wanderers,wolverhampton-wanderers,543,Premier League,2021,24.4,376950000
+130,West Ham United,west-ham-united,379,Premier League,2021,26.0,354900000
+131,Brighton & Hove Albion,brighton-amp-hove-albion,1237,Premier League,2021,24.1,318000000
+132,Newcastle United,newcastle-united,762,Premier League,2021,27.4,313900000
+133,Leeds United,leeds-united,399,Premier League,2021,23.5,299450000
+134,Southampton FC,fc-southampton,180,Premier League,2021,25.1,274300000
+135,Brentford FC,fc-brentford,1148,Premier League,2021,24.3,273300000
+136,Crystal Palace,crystal-palace,873,Premier League,2021,25.9,271050000
+137,Norwich City,norwich-city,1123,Premier League,2021,24.2,163200000
+138,Watford FC,fc-watford,1010,Premier League,2021,25.8,156200000
+139,Burnley FC,fc-burnley,1132,Premier League,2021,27.3,138050000
+140,FC Barcelona,fc-barcelona,131,LaLiga,2015,25.9,726000000
+141,Real Madrid,real-madrid,418,LaLiga,2015,24.8,714300000
+142,Atlético de Madrid,atletico-madrid,13,LaLiga,2015,25.4,418500000
+143,Valencia CF,fc-valencia,1049,LaLiga,2015,23.7,254000000
+144,Sevilla FC,fc-sevilla,368,LaLiga,2015,25.8,230300000
+145,Athletic Bilbao,athletic-bilbao,621,LaLiga,2015,27.0,148000000
+146,Villarreal CF,fc-villarreal,1050,LaLiga,2015,25.4,140600000
+147,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2015,25.5,119400000
+148,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2015,24.6,91100000
+149,Málaga CF,fc-malaga,1084,LaLiga,2015,27.0,77950000
+150,Granada CF,fc-granada,16795,LaLiga,2015,25.9,71500000
+151,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2015,25.0,62200000
+152,Deportivo de La Coruña,deportivo-la-coruna,897,LaLiga,2015,28.2,61750000
+153,SD Eibar,sd-eibar,1533,LaLiga,2015,25.8,56600000
+154,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2015,26.9,56400000
+155,Sporting Gijón,sporting-gijon,2448,LaLiga,2015,24.7,53200000
+156,Levante UD,ud-levante,3368,LaLiga,2015,27.3,53100000
+157,Rayo Vallecano,rayo-vallecano,367,LaLiga,2015,28.0,49600000
+158,Getafe CF,fc-getafe,3709,LaLiga,2015,25.7,49100000
+159,UD Las Palmas,ud-las-palmas,472,LaLiga,2015,27.2,32200000
+160,Real Madrid,real-madrid,418,LaLiga,2016,25.7,802900000
+161,FC Barcelona,fc-barcelona,131,LaLiga,2016,25.8,765300000
+162,Atlético de Madrid,atletico-madrid,13,LaLiga,2016,24.7,515800000
+163,Sevilla FC,fc-sevilla,368,LaLiga,2016,25.6,270100000
+164,Valencia CF,fc-valencia,1049,LaLiga,2016,24.9,257500000
+165,Villarreal CF,fc-villarreal,1050,LaLiga,2016,25.9,190700000
+166,Athletic Bilbao,athletic-bilbao,621,LaLiga,2016,26.9,172600000
+167,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2016,25.8,156450000
+168,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2016,25.4,122400000
+169,Deportivo de La Coruña,deportivo-la-coruna,897,LaLiga,2016,26.8,94000000
+170,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2016,25.3,85400000
+171,Málaga CF,fc-malaga,1084,LaLiga,2016,26.0,84300000
+172,UD Las Palmas,ud-las-palmas,472,LaLiga,2016,26.7,84300000
+173,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2016,26.3,84200000
+174,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2016,27.3,80800000
+175,SD Eibar,sd-eibar,1533,LaLiga,2016,25.9,67950000
+176,Granada CF,fc-granada,16795,LaLiga,2016,25.2,66450000
+177,CD Leganés,cd-leganes,1244,LaLiga,2016,26.1,53150000
+178,Sporting Gijón,sporting-gijon,2448,LaLiga,2016,25.8,46750000
+179,CA Osasuna,ca-osasunasaison_id,331,LaLiga,2016,25.5,42900000
+180,FC Barcelona,fc-barcelona,131,LaLiga,2017,26.3,1090000000
+181,Real Madrid,real-madrid,418,LaLiga,2017,24.5,955350000
+182,Atlético de Madrid,atletico-madrid,13,LaLiga,2017,25.4,711150000
+183,Valencia CF,fc-valencia,1049,LaLiga,2017,24.3,398050000
+184,Sevilla FC,fc-sevilla,368,LaLiga,2017,26.5,253200000
+185,Athletic Bilbao,athletic-bilbao,621,LaLiga,2017,25.9,249400000
+186,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2017,26.3,232950000
+187,Villarreal CF,fc-villarreal,1050,LaLiga,2017,25.4,220000000
+188,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2017,24.5,173050000
+189,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2017,25.9,132250000
+190,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2017,27.3,97800000
+191,UD Las Palmas,ud-las-palmas,472,LaLiga,2017,26.9,91250000
+192,Girona FC,fc-girona,12321,LaLiga,2017,25.4,81750000
+193,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2017,25.1,74800000
+194,Deportivo de La Coruña,deportivo-la-coruna,897,LaLiga,2017,26.8,66450000
+195,Getafe CF,fc-getafe,3709,LaLiga,2017,26.6,65600000
+196,Levante UD,ud-levante,3368,LaLiga,2017,25.2,61850000
+197,SD Eibar,sd-eibar,1533,LaLiga,2017,26.8,60050000
+198,CD Leganés,cd-leganes,1244,LaLiga,2017,26.8,58550000
+199,Málaga CF,fc-malaga,1084,LaLiga,2017,25.8,55200000
+200,FC Barcelona,fc-barcelona,131,LaLiga,2018,24.7,1160000000
+201,Atlético de Madrid,atletico-madrid,13,LaLiga,2018,24.2,969700000
+202,Real Madrid,real-madrid,418,LaLiga,2018,24.7,896100000
+203,Valencia CF,fc-valencia,1049,LaLiga,2018,24.8,499650000
+204,Sevilla FC,fc-sevilla,368,LaLiga,2018,26.1,306300000
+205,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2018,24.1,300950000
+206,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2018,25.4,290750000
+207,Athletic Bilbao,athletic-bilbao,621,LaLiga,2018,26.8,234250000
+208,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2018,25.3,234100000
+209,Villarreal CF,fc-villarreal,1050,LaLiga,2018,27.5,230650000
+210,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2018,26.8,174700000
+211,Getafe CF,fc-getafe,3709,LaLiga,2018,27.3,132200000
+212,CD Leganés,cd-leganes,1244,LaLiga,2018,25.9,112450000
+213,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2018,25.9,110800000
+214,Levante UD,ud-levante,3368,LaLiga,2018,25.8,107850000
+215,Girona FC,fc-girona,12321,LaLiga,2018,25.9,97250000
+216,SD Eibar,sd-eibar,1533,LaLiga,2018,27.6,93900000
+217,Rayo Vallecano,rayo-vallecano,367,LaLiga,2018,26.2,86700000
+218,Real Valladolid CF,real-valladolid,366,LaLiga,2018,25.1,83000000
+219,SD Huesca,sd-huesca,5358,LaLiga,2018,26.7,61400000
+220,FC Barcelona,fc-barcelona,131,LaLiga,2019,24.2,930280000
+221,Real Madrid,real-madrid,418,LaLiga,2019,25.6,913750000
+222,Atlético de Madrid,atletico-madrid,13,LaLiga,2019,24.8,720150000
+223,Valencia CF,fc-valencia,1049,LaLiga,2019,25.5,427800000
+224,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2019,24.5,347550000
+225,Sevilla FC,fc-sevilla,368,LaLiga,2019,25.7,294750000
+226,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2019,25.0,244350000
+227,Athletic Bilbao,athletic-bilbao,621,LaLiga,2019,26.3,211750000
+228,Villarreal CF,fc-villarreal,1050,LaLiga,2019,26.4,208680000
+229,Getafe CF,fc-getafe,3709,LaLiga,2019,28.0,175450000
+230,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2019,24.9,167000000
+231,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2019,25.8,156050000
+232,CD Leganés,cd-leganes,1244,LaLiga,2019,25.3,109700000
+233,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2019,26.1,106750000
+234,Levante UD,ud-levante,3368,LaLiga,2019,26.5,90500000
+235,Real Valladolid CF,real-valladolid,366,LaLiga,2019,25.6,87780000
+236,RCD Mallorca,rcd-mallorca,237,LaLiga,2019,26.4,64680000
+237,CA Osasuna,ca-osasunasaison_id,331,LaLiga,2019,26.4,62780000
+238,Granada CF,fc-granada,16795,LaLiga,2019,25.9,56580000
+239,SD Eibar,sd-eibar,1533,LaLiga,2019,28.3,53750000
+240,FC Barcelona,fc-barcelona,131,LaLiga,2020,25.1,813500000
+241,Real Madrid,real-madrid,418,LaLiga,2020,24.8,787300000
+242,Atlético de Madrid,atletico-madrid,13,LaLiga,2020,24.9,773100000
+243,Sevilla FC,fc-sevilla,368,LaLiga,2020,25.6,418250000
+244,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2020,24.7,406600000
+245,Villarreal CF,fc-villarreal,1050,LaLiga,2020,25.9,292600000
+246,Valencia CF,fc-valencia,1049,LaLiga,2020,24.7,278850000
+247,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2020,26.8,207700000
+248,Athletic Bilbao,athletic-bilbao,621,LaLiga,2020,25.9,204150000
+249,Getafe CF,fc-getafe,3709,LaLiga,2020,25.4,170100000
+250,Celta de Vigo,celta-vigosaison_id,940,LaLiga,2020,24.3,155850000
+251,Granada CF,fc-granada,16795,LaLiga,2020,24.9,122650000
+252,Levante UD,ud-levante,3368,LaLiga,2020,26.5,113000000
+253,CA Osasuna,ca-osasunasaison_id,331,LaLiga,2020,27.0,96750000
+254,SD Eibar,sd-eibar,1533,LaLiga,2020,27.1,83400000
+255,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2020,25.6,79800000
+256,SD Huesca,sd-huesca,5358,LaLiga,2020,26.5,64100000
+257,Real Valladolid CF,real-valladolid,366,LaLiga,2020,26.6,63350000
+258,Cádiz CF,fc-cadiz,2687,LaLiga,2020,27.2,47650000
+259,Elche CF,fc-elche,1531,LaLiga,2020,26.7,45650000
+260,Real Madrid,real-madrid,418,LaLiga,2021,25.7,770750000
+261,FC Barcelona,fc-barcelona,131,LaLiga,2021,25.1,735600000
+262,Atlético de Madrid,atletico-madrid,13,LaLiga,2021,25.3,661800000
+263,Villarreal CF,fc-villarreal,1050,LaLiga,2021,26.0,408900000
+264,Sevilla FC,fc-sevilla,368,LaLiga,2021,25.7,385000000
+265,Real Sociedad,real-sociedad-san-sebastian,681,LaLiga,2021,24.7,376950000
+266,Valencia CF,fc-valencia,1049,LaLiga,2021,23.6,310600000
+267,Real Betis Balompié,real-betis-sevilla,150,LaLiga,2021,27.4,259000000
+268,Athletic Bilbao,athletic-bilbao,621,LaLiga,2021,25.7,226050000
+269,Getafe CF,fc-getafe,3709,LaLiga,2021,25.2,208680000
+270,RCD Espanyol Barcelona,espanyol-barcelona,714,LaLiga,2021,25.4,131600000
+271,Celta de Vigo,celta-vigo,940,LaLiga,2021,25.5,120000000
+272,CA Osasuna,ca-osasuna,331,LaLiga,2021,26.9,108450000
+273,Granada CF,fc-granada,16795,LaLiga,2021,26.5,103750000
+274,Levante UD,ud-levante,3368,LaLiga,2021,26.3,77900000
+275,RCD Mallorca,rcd-mallorca,237,LaLiga,2021,25.7,74150000
+276,Elche CF,fc-elche,1531,LaLiga,2021,27.4,72980000
+277,Cádiz CF,fc-cadiz,2687,LaLiga,2021,27.3,67800000
+278,Rayo Vallecano,rayo-vallecano,367,LaLiga,2021,26.2,67200000
+279,Deportivo Alavés,deportivo-alaves,1108,LaLiga,2021,25.1,65350000
+280,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2015,25.9,596050000
+281,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2015,24.9,352950000
+282,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2015,25.5,270430000
+283,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2015,24.2,241300000
+284,FC Schalke 04,fc-schalke-04,33,Bundesliga,2015,24.9,225200000
+285,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2015,25.4,186150000
+286,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2015,24.9,90200000
+287,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2015,25.3,85150000
+288,VfB Stuttgart,vfb-stuttgart,79,Bundesliga,2015,24.8,81180000
+289,Hertha BSC,hertha-bsc,44,Bundesliga,2015,25.3,78930000
+290,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2015,24.9,76600000
+291,FC Augsburg,fc-augsburg,167,Bundesliga,2015,25.9,75830000
+292,1.FC Köln,1-fc-koln,3,Bundesliga,2015,25.0,68630000
+293,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2015,24.6,64680000
+294,Hamburger SV,hamburger-sv,41,Bundesliga,2015,25.8,63200000
+295,Hannover 96,hannover-96,42,Bundesliga,2015,24.6,60830000
+296,FC Ingolstadt 04,fc-ingolstadt-04,4795,Bundesliga,2015,25.2,35650000
+297,SV Darmstadt 98,sv-darmstadt-98,105,Bundesliga,2015,27.3,25150000
+298,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2016,26.1,562550000
+299,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2016,25.2,390650000
+300,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2016,23.8,265030000
+301,FC Schalke 04,fc-schalke-04,33,Bundesliga,2016,24.7,217250000
+302,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2016,24.5,203080000
+303,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2016,23.6,176330000
+304,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2016,24.4,162180000
+305,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2016,24.5,138630000
+306,1.FC Köln,1-fc-koln,3,Bundesliga,2016,25.4,116150000
+307,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2016,24.3,96730000
+308,Hertha BSC,hertha-bsc,44,Bundesliga,2016,25.0,96530000
+309,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2016,25.5,89450000
+310,SC Freiburg,sc-freiburg,60,Bundesliga,2016,25.0,86730000
+311,Hamburger SV,hamburger-sv,41,Bundesliga,2016,24.6,80480000
+312,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2016,24.1,72300000
+313,FC Augsburg,fc-augsburg,167,Bundesliga,2016,26.3,65850000
+314,FC Ingolstadt 04,fc-ingolstadt-04,4795,Bundesliga,2016,24.8,38630000
+315,SV Darmstadt 98,sv-darmstadt-98,105,Bundesliga,2016,26.7,25980000
+316,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2017,24.7,811850000
+317,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2017,25.0,574200000
+318,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2017,24.1,373300000
+319,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2017,25.3,357350000
+320,FC Schalke 04,fc-schalke-04,33,Bundesliga,2017,25.5,274350000
+321,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2017,24.1,212750000
+322,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2017,24.6,193250000
+323,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2017,24.3,143600000
+324,VfB Stuttgart,vfb-stuttgart,79,Bundesliga,2017,24.7,134700000
+325,Hertha BSC,hertha-bsc,44,Bundesliga,2017,24.9,131450000
+326,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2017,25.0,126150000
+327,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2017,25.6,107150000
+328,SC Freiburg,sc-freiburg,60,Bundesliga,2017,25.5,100600000
+329,FC Augsburg,fc-augsburg,167,Bundesliga,2017,25.6,100450000
+330,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2017,25.3,98350000
+331,Hannover 96,hannover-96,42,Bundesliga,2017,25.9,92950000
+332,1.FC Köln,1-fc-koln,3,Bundesliga,2017,24.5,91730000
+333,Hamburger SV,hamburger-sv,41,Bundesliga,2017,24.5,62400000
+334,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2018,25.7,784880000
+335,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2018,24.4,643250000
+336,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2018,22.6,479000000
+337,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2018,24.6,429400000
+338,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2018,24.4,336250000
+339,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2018,24.8,313400000
+340,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2018,25.2,264300000
+341,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2018,25.1,229250000
+342,FC Schalke 04,fc-schalke-04,33,Bundesliga,2018,25.1,221300000
+343,Hertha BSC,hertha-bsc,44,Bundesliga,2018,24.4,207630000
+344,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2018,25.8,168050000
+345,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2018,24.7,159730000
+346,VfB Stuttgart,vfb-stuttgart,79,Bundesliga,2018,24.9,143750000
+347,FC Augsburg,fc-augsburg,167,Bundesliga,2018,24.9,139250000
+348,SC Freiburg,sc-freiburg,60,Bundesliga,2018,25.0,122100000
+349,Fortuna Düsseldorf,fortuna-dusseldorf,38,Bundesliga,2018,26.3,94950000
+350,Hannover 96,hannover-96,42,Bundesliga,2018,25.7,91430000
+351,1.FC Nuremberg,1-fc-nurnberg,4,Bundesliga,2018,25.2,54400000
+352,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2019,23.7,777330000
+353,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2019,24.5,654050000
+354,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2019,23.0,570480000
+355,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2019,25.1,398950000
+356,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2019,25.8,254700000
+357,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2019,26.3,226050000
+358,FC Schalke 04,fc-schalke-04,33,Bundesliga,2019,24.2,221580000
+359,Hertha BSC,hertha-bsc,44,Bundesliga,2019,24.2,217200000
+360,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2019,26.4,208980000
+361,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2019,24.7,207600000
+362,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2019,26.2,135130000
+363,SC Freiburg,sc-freiburg,60,Bundesliga,2019,25.8,122650000
+364,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2019,23.9,121580000
+365,FC Augsburg,fc-augsburg,167,Bundesliga,2019,25.4,112950000
+366,1.FC Köln,1-fc-koln,3,Bundesliga,2019,25.3,98480000
+367,Fortuna Düsseldorf,fortuna-dusseldorf,38,Bundesliga,2019,26.2,71780000
+368,1.FC Union Berlin,1-fc-union-berlin,89,Bundesliga,2019,26.2,41200000
+369,SC Paderborn 07,sc-paderborn-07,127,Bundesliga,2019,25.3,28900000
+370,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2020,23.9,858230000
+371,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2020,25.0,628400000
+372,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2020,23.7,574950000
+373,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2020,25.0,373250000
+374,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2020,25.7,300750000
+375,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2020,25.6,269150000
+376,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2020,26.0,256830000
+377,Hertha BSC,hertha-bsc,44,Bundesliga,2020,24.4,228880000
+378,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2020,25.1,228150000
+379,VfB Stuttgart,vfb-stuttgart,79,Bundesliga,2020,23.8,189250000
+380,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2020,24.9,163300000
+381,SC Freiburg,sc-freiburg,60,Bundesliga,2020,25.2,139100000
+382,FC Schalke 04,fc-schalke-04,33,Bundesliga,2020,24.8,123050000
+383,1.FC Köln,1-fc-koln,3,Bundesliga,2020,24.9,118200000
+384,SV Werder Bremen,sv-werder-bremen,86,Bundesliga,2020,25.2,111980000
+385,FC Augsburg,fc-augsburg,167,Bundesliga,2020,25.8,93050000
+386,1.FC Union Berlin,1-fc-union-berlin,89,Bundesliga,2020,25.8,82050000
+387,Arminia Bielefeld,arminia-bielefeld,10,Bundesliga,2020,24.9,56730000
+388,Bayern Munich,fc-bayern-munchen,27,Bundesliga,2021,24.7,790330000
+389,Borussia Dortmund,borussia-dortmund,16,Bundesliga,2021,23.9,558980000
+390,RB Leipzig,rasenballsport-leipzig,23826,Bundesliga,2021,23.9,498950000
+391,Bayer 04 Leverkusen,bayer-04-leverkusen,15,Bundesliga,2021,24.6,455050000
+392,VfL Wolfsburg,vfl-wolfsburg,82,Bundesliga,2021,25.3,269300000
+393,Borussia Mönchengladbach,borussia-monchengladbach,18,Bundesliga,2021,25.4,236800000
+394,Eintracht Frankfurt,eintracht-frankfurt,24,Bundesliga,2021,25.2,228750000
+395,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,533,Bundesliga,2021,24.9,211430000
+396,SC Freiburg,sc-freiburg,60,Bundesliga,2021,25.0,176350000
+397,VfB Stuttgart,vfb-stuttgart,79,Bundesliga,2021,23.5,174230000
+398,Hertha BSC,hertha-bsc,44,Bundesliga,2021,24.7,155730000
+399,1.FSV Mainz 05,1-fsv-mainz-05,39,Bundesliga,2021,24.9,131030000
+400,1.FC Union Berlin,1-fc-union-berlin,89,Bundesliga,2021,26.6,115900000
+401,1.FC Köln,1-fc-koln,3,Bundesliga,2021,25.4,99280000
+402,FC Augsburg,fc-augsburg,167,Bundesliga,2021,25.5,95300000
+403,Arminia Bielefeld,arminia-bielefeld,10,Bundesliga,2021,24.6,65850000
+404,VfL Bochum,vfl-bochum,80,Bundesliga,2021,27.3,52250000
+405,SpVgg Greuther Fürth,spvgg-greuther-furth,65,Bundesliga,2021,24.6,36950000
+406,Juventus FC,juventus-turin,506,Serie A,2015,25.5,440000000
+407,AS Roma,as-rom,12,Serie A,2015,24.7,332900000
+408,SSC Napoli,ssc-neapel,6195,Serie A,2015,25.9,321930000
+409,Inter Milan,inter-mailand,46,Serie A,2015,25.2,294280000
+410,AC Milan,ac-mailand,5,Serie A,2015,25.5,213830000
+411,ACF Fiorentina,ac-florenz,430,Serie A,2015,26.1,190530000
+412,SS Lazio,lazio-rom,398,Serie A,2015,25.7,175300000
+413,UC Sampdoria,sampdoria-genua,1038,Serie A,2015,26.0,126530000
+414,Genoa CFC,genua-cfc,252,Serie A,2015,24.2,117550000
+415,US Sassuolo,us-sassuolo,6574,Serie A,2015,24.7,97000000
+416,Udinese Calcio,udinese-calcio,410,Serie A,2015,26.3,93000000
+417,Torino FC,fc-turin,416,Serie A,2015,25.7,89830000
+418,Atalanta BC,atalanta-bergamo,800,Serie A,2015,26.8,78450000
+419,Bologna FC 1909,fc-bologna,1025,Serie A,2015,25.7,75230000
+420,Empoli FC,fc-empoli,749,Serie A,2015,24.1,74600000
+421,US Palermo,palermo-fc,458,Serie A,2015,24.5,68680000
+422,Carpi FC 1909,carpi-fc-19092,4102,Serie A,2015,25.9,52050000
+423,Chievo Verona,chievo-verona,862,Serie A,2015,27.5,49780000
+424,Hellas Verona,hellas-verona,276,Serie A,2015,25.9,47730000
+425,Frosinone Calcio,frosinone-calcio,8970,Serie A,2015,26.2,38300000
+426,Juventus FC,juventus-turin,506,Serie A,2016,26.2,497180000
+427,SSC Napoli,ssc-neapel,6195,Serie A,2016,25.7,387300000
+428,AS Roma,as-rom,12,Serie A,2016,23.7,354680000
+429,Inter Milan,inter-mailand,46,Serie A,2016,25.4,328300000
+430,AC Milan,ac-mailand,5,Serie A,2016,24.9,254330000
+431,SS Lazio,lazio-rom,398,Serie A,2016,23.7,226450000
+432,ACF Fiorentina,ac-florenz,430,Serie A,2016,24.1,217080000
+433,Torino FC,fc-turin,416,Serie A,2016,24.3,162350000
+434,Atalanta BC,atalanta-bergamo,800,Serie A,2016,25.5,161700000
+435,US Sassuolo,us-sassuolo,6574,Serie A,2016,24.5,145250000
+436,UC Sampdoria,sampdoria-genua,1038,Serie A,2016,24.7,117580000
+437,Genoa CFC,genua-cfc,252,Serie A,2016,25.8,108180000
+438,Udinese Calcio,udinese-calcio,410,Serie A,2016,24.5,101950000
+439,Bologna FC 1909,fc-bologna,1025,Serie A,2016,24.7,95000000
+440,Cagliari Calcio,cagliari-calcio,1390,Serie A,2016,24.7,61080000
+441,Empoli FC,fc-empoli,749,Serie A,2016,24.5,55450000
+442,Delfino Pescara 1936,delfino-pescara-1936,2921,Serie A,2016,24.7,48100000
+443,Chievo Verona,chievo-verona,862,Serie A,2016,26.3,45880000
+444,US Palermo,palermo-fc,458,Serie A,2016,24.4,41100000
+445,FC Crotone,fc-crotone,4083,Serie A,2016,25.0,36700000
+446,Juventus FC,juventus-turin,506,Serie A,2017,26.6,653150000
+447,SSC Napoli,ssc-neapel,6195,Serie A,2017,25.2,504250000
+448,Inter Milan,inter-mailand,46,Serie A,2017,25.9,487280000
+449,AS Roma,as-rom,12,Serie A,2017,23.7,469100000
+450,SS Lazio,lazio-rom,398,Serie A,2017,24.8,408780000
+451,AC Milan,ac-mailand,5,Serie A,2017,24.5,407050000
+452,ACF Fiorentina,ac-florenz,430,Serie A,2017,23.8,237330000
+453,Atalanta BC,atalanta-bergamo,800,Serie A,2017,23.6,207950000
+454,UC Sampdoria,sampdoria-genua,1038,Serie A,2017,24.6,190450000
+455,Torino FC,fc-turin,416,Serie A,2017,23.8,175530000
+456,Genoa CFC,genua-cfc,252,Serie A,2017,26.0,135130000
+457,US Sassuolo,us-sassuolo,6574,Serie A,2017,25.0,126780000
+458,Udinese Calcio,udinese-calcio,410,Serie A,2017,24.0,108030000
+459,Bologna FC 1909,fc-bologna,1025,Serie A,2017,25.3,103550000
+460,Cagliari Calcio,cagliari-calcio,1390,Serie A,2017,25.4,98580000
+461,SPAL 2013,spal,2722,Serie A,2017,25.4,63550000
+462,Benevento Calcio,benevento-calcio,4171,Serie A,2017,25.1,57830000
+463,Hellas Verona,hellas-verona,276,Serie A,2017,25.5,56500000
+464,Chievo Verona,chievo-verona,862,Serie A,2017,27.4,55230000
+465,FC Crotone,fc-crotone,4083,Serie A,2017,24.1,47880000
+466,Juventus FC,juventus-turin,506,Serie A,2018,25.0,871050000
+467,SSC Napoli,ssc-neapel,6195,Serie A,2018,24.3,646800000
+468,Inter Milan,inter-mailand,46,Serie A,2018,24.0,617930000
+469,AC Milan,ac-mailand,5,Serie A,2018,24.4,578480000
+470,AS Roma,as-rom,12,Serie A,2018,23.7,459050000
+471,Atalanta BC,atalanta-bergamo,800,Serie A,2018,22.7,367680000
+472,ACF Fiorentina,ac-florenz,430,Serie A,2018,22.9,315330000
+473,SS Lazio,lazio-rom,398,Serie A,2018,24.4,291150000
+474,US Sassuolo,us-sassuolo,6574,Serie A,2018,23.8,242050000
+475,Torino FC,fc-turin,416,Serie A,2018,23.7,239230000
+476,UC Sampdoria,sampdoria-genua,1038,Serie A,2018,23.5,216750000
+477,Udinese Calcio,udinese-calcio,410,Serie A,2018,24.7,201200000
+478,Genoa CFC,genua-cfc,252,Serie A,2018,23.8,191730000
+479,Cagliari Calcio,cagliari-calcio,1390,Serie A,2018,25.9,155380000
+480,Bologna FC 1909,fc-bologna,1025,Serie A,2018,25.0,119680000
+481,Empoli FC,fc-empoli,749,Serie A,2018,24.1,105600000
+482,SPAL,spal,2722,Serie A,2018,25.3,97400000
+483,Parma Calcio 1913,parma-calcio-1913,130,Serie A,2018,25.6,95750000
+484,Chievo Verona,chievo-verona,862,Serie A,2018,24.7,54700000
+485,Frosinone Calcio,frosinone-calcio,8970,Serie A,2018,25.8,54530000
+486,Juventus FC,juventus-turin,506,Serie A,2019,26.8,661880000
+487,Inter Milan,inter-mailand,46,Serie A,2019,26.7,606050000
+488,SSC Napoli,ssc-neapel,6195,Serie A,2019,26.7,548280000
+489,AC Milan,ac-mailand,5,Serie A,2019,25.2,404330000
+490,AS Roma,as-rom,12,Serie A,2019,25.6,392730000
+491,SS Lazio,lazio-rom,398,Serie A,2019,26.1,303880000
+492,ACF Fiorentina,ac-florenz,430,Serie A,2019,24.7,302230000
+493,Atalanta BC,atalanta-bergamo,800,Serie A,2019,24.9,291430000
+494,US Sassuolo,us-sassuolo,6574,Serie A,2019,24.3,167980000
+495,Cagliari Calcio,cagliari-calcio,1390,Serie A,2019,25.8,167830000
+496,Torino FC,fc-turin,416,Serie A,2019,24.7,163550000
+497,Genoa CFC,genua-cfc,252,Serie A,2019,26.2,142380000
+498,UC Sampdoria,sampdoria-genua,1038,Serie A,2019,25.1,135280000
+499,Bologna FC 1909,fc-bologna,1025,Serie A,2019,24.5,129650000
+500,Parma Calcio 1913,parma-calcio-1913,130,Serie A,2019,26.1,128750000
+501,Udinese Calcio,udinese-calcio,410,Serie A,2019,24.9,121080000
+502,Hellas Verona,hellas-verona,276,Serie A,2019,25.0,112530000
+503,Brescia Calcio,brescia-calcio,19,Serie A,2019,25.9,83230000
+504,SPAL,spal,2722,Serie A,2019,25.6,73630000
+505,US Lecce,us-lecce,1005,Serie A,2019,25.0,52330000
+506,Inter Milan,inter-mailand,46,Serie A,2020,25.2,663900000
+507,Juventus FC,juventus-turin,506,Serie A,2020,24.7,633300000
+508,AC Milan,ac-mailand,5,Serie A,2020,23.9,547780000
+509,SSC Napoli,ssc-neapel,6195,Serie A,2020,26.0,530200000
+510,Atalanta BC,atalanta-bergamo,800,Serie A,2020,25.0,430000000
+511,AS Roma,as-rom,12,Serie A,2020,24.6,395650000
+512,SS Lazio,lazio-rom,398,Serie A,2020,25.6,326330000
+513,ACF Fiorentina,ac-florenz,430,Serie A,2020,25.7,286800000
+514,US Sassuolo,us-sassuolo,6574,Serie A,2020,24.9,241740000
+515,Cagliari Calcio,cagliari-calcio,1390,Serie A,2020,25.4,187830000
+516,Torino FC,fc-turin,416,Serie A,2020,25.4,175280000
+517,Udinese Calcio,udinese-calcio,410,Serie A,2020,25.8,173000000
+518,Hellas Verona,hellas-verona,276,Serie A,2020,24.2,157210000
+519,Bologna FC 1909,fc-bologna,1025,Serie A,2020,24.1,153600000
+520,Parma Calcio 1913,parma-calcio-1913,130,Serie A,2020,25.1,128700000
+521,UC Sampdoria,sampdoria-genua,1038,Serie A,2020,26.4,127180000
+522,Genoa CFC,genua-cfc,252,Serie A,2020,26.5,111930000
+523,Spezia Calcio,spezia-calcio,3522,Serie A,2020,25.7,71680000
+524,FC Crotone,fc-crotone,4083,Serie A,2020,26.0,52750000
+525,Benevento Calcio,benevento-calcio,4171,Serie A,2020,27.4,50130000
+526,Juventus FC,juventus-turin,506,Serie A,2021,25.0,642500000
+527,Inter Milan,inter-mailand,46,Serie A,2021,27.2,558550000
+528,AC Milan,ac-mailand,5,Serie A,2021,25.3,546950000
+529,SSC Napoli,ssc-neapel,6195,Serie A,2021,25.3,477230000
+530,Atalanta BC,atalanta-bergamo,800,Serie A,2021,24.5,398750000
+531,AS Roma,as-rom,12,Serie A,2021,23.8,381250000
+532,ACF Fiorentina,ac-florenz,430,Serie A,2021,25.4,325800000
+533,SS Lazio,lazio-rom,398,Serie A,2021,27.2,264480000
+534,US Sassuolo,us-sassuolo,6574,Serie A,2021,25.0,251000000
+535,Torino FC,fc-turin,416,Serie A,2021,24.8,223400000
+536,Bologna FC 1909,fc-bologna,1025,Serie A,2021,23.7,186200000
+537,Hellas Verona,hellas-verona,276,Serie A,2021,24.7,162980000
+538,Udinese Calcio,udinese-calcio,410,Serie A,2021,25.0,142300000
+539,Cagliari Calcio,cagliari-calcio,1390,Serie A,2021,25.0,134530000
+540,UC Sampdoria,sampdoria-genua,1038,Serie A,2021,26.2,128550000
+541,FC Empoli,fc-empoli,749,Serie A,2021,24.5,126500000
+542,Genoa CFC,genua-cfc,252,Serie A,2021,26.1,121280000
+543,Venezia FC,venezia-fc,607,Serie A,2021,24.7,80980000
+544,Spezia Calcio,spezia-calcio,3522,Serie A,2021,23.6,78500000
+545,US Salernitana 1919,us-salernitana-1919,380,Serie A,2021,25.9,70560000
+546,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2015,24.9,436300000
+547,AS Monaco,as-monaco,162,Ligue 1,2015,23.3,227400000
+548,Olympique Lyon,olympique-lyon,1041,Ligue 1,2015,25.0,166300000
+549,Olympique Marseille,olympique-marseille,244,Ligue 1,2015,23.9,129500000
+550,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2015,25.1,97200000
+551,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2015,24.6,94150000
+552,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2015,23.5,90700000
+553,OGC Nice,ogc-nizza,417,Ligue 1,2015,23.4,70950000
+554,LOSC Lille,losc-lille,1082,Ligue 1,2015,25.5,70800000
+555,FC Lorient,fc-lorient,1158,Ligue 1,2015,24.7,58050000
+556,Montpellier HSC,montpellier-hsc,969,Ligue 1,2015,25.9,44400000
+557,Stade Reims,stade-reims,1421,Ligue 1,2015,25.7,42950000
+558,FC Toulouse,fc-toulouse,415,Ligue 1,2015,24.1,42900000
+559,FC Nantes,fc-nantes,995,Ligue 1,2015,24.8,39300000
+560,SM Caen,sm-caen,1162,Ligue 1,2015,25.6,36800000
+561,EA Guingamp,ea-guingamp,855,Ligue 1,2015,26.8,33500000
+562,Angers SCO,sco-angers,1420,Ligue 1,2015,27.3,32350000
+563,ESTAC Troyes,es-troyes-ac,1095,Ligue 1,2015,26.3,30700000
+564,SC Bastia,sc-bastia,595,Ligue 1,2015,25.8,24250000
+565,GFC Ajaccio,gfc-ajaccio,3558,Ligue 1,2015,25.8,18400000
+566,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2016,24.5,519000000
+567,AS Monaco,as-monaco,162,Ligue 1,2016,23.2,309550000
+568,Olympique Lyon,olympique-lyon,1041,Ligue 1,2016,23.6,211350000
+569,OGC Nice,ogc-nizza,417,Ligue 1,2016,23.5,132800000
+570,Olympique Marseille,olympique-marseille,244,Ligue 1,2016,25.7,119650000
+571,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2016,24.6,88900000
+572,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2016,24.0,85030000
+573,LOSC Lille,losc-lille,1082,Ligue 1,2016,24.6,83900000
+574,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2016,25.0,80900000
+575,FC Toulouse,fc-toulouse,415,Ligue 1,2016,23.9,77300000
+576,FC Lorient,fc-lorient,1158,Ligue 1,2016,25.1,61100000
+577,Montpellier HSC,montpellier-hsc,969,Ligue 1,2016,25.6,60950000
+578,FC Nantes,fc-nantes,995,Ligue 1,2016,24.4,50900000
+579,Angers SCO,sco-angers,1420,Ligue 1,2016,26.3,46080000
+580,EA Guingamp,ea-guingamp,855,Ligue 1,2016,26.2,42500000
+581,FC Metz,fc-metz,347,Ligue 1,2016,24.5,37550000
+582,SM Caen,sm-caen,1162,Ligue 1,2016,26.1,36650000
+583,SC Bastia,sc-bastia,595,Ligue 1,2016,25.1,36450000
+584,AS Nancy-Lorraine,as-nancy-lorraine,1159,Ligue 1,2016,26.1,33100000
+585,Dijon FCO,dijon-fco,2969,Ligue 1,2016,26.3,31200000
+586,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2017,25.0,900100000
+587,AS Monaco,as-monaco,162,Ligue 1,2017,23.5,529800000
+588,Olympique Lyon,olympique-lyon,1041,Ligue 1,2017,23.1,363800000
+589,Olympique Marseille,olympique-marseille,244,Ligue 1,2017,26.8,236800000
+590,OGC Nice,ogc-nizza,417,Ligue 1,2017,23.6,204100000
+591,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2017,24.1,155450000
+592,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2017,24.3,131250000
+593,FC Toulouse,fc-toulouse,415,Ligue 1,2017,24.5,110450000
+594,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2017,24.8,106880000
+595,FC Nantes,fc-nantes,995,Ligue 1,2017,24.6,105700000
+596,LOSC Lille,losc-lille,1082,Ligue 1,2017,22.0,96750000
+597,Montpellier HSC,montpellier-hsc,969,Ligue 1,2017,25.4,71850000
+598,Dijon FCO,dijon-fco,2969,Ligue 1,2017,25.6,70300000
+599,Amiens SC,amiens-sc,1416,Ligue 1,2017,27.3,69850000
+600,Angers SCO,sco-angers,1420,Ligue 1,2017,26.1,69550000
+601,SM Caen,sm-caen,1162,Ligue 1,2017,25.8,60100000
+602,EA Guingamp,ea-guingamp,855,Ligue 1,2017,26.7,51900000
+603,FC Metz,fc-metz,347,Ligue 1,2017,24.7,51200000
+604,RC Strasbourg Alsace,rc-strassburg-alsace,667,Ligue 1,2017,26.3,45600000
+605,ESTAC Troyes,es-troyes-ac,1095,Ligue 1,2017,26.0,45050000
+606,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2018,24.9,1010000000
+607,Olympique Lyon,olympique-lyon,1041,Ligue 1,2018,23.7,467950000
+608,AS Monaco,as-monaco,162,Ligue 1,2018,23.4,385830000
+609,LOSC Lille,losc-lille,1082,Ligue 1,2018,23.7,267550000
+610,Olympique Marseille,olympique-marseille,244,Ligue 1,2018,26.1,258350000
+611,OGC Nice,ogc-nizza,417,Ligue 1,2018,22.7,183200000
+612,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2018,23.8,179000000
+613,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2018,23.8,168450000
+614,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2018,24.3,131250000
+615,FC Nantes,fc-nantes,995,Ligue 1,2018,24.6,119500000
+616,FC Toulouse,fc-toulouse,415,Ligue 1,2018,24.1,113250000
+617,Montpellier HSC,montpellier-hsc,969,Ligue 1,2018,25.7,109850000
+618,RC Strasbourg Alsace,rc-strassburg-alsace,667,Ligue 1,2018,25.2,98000000
+619,Nîmes Olympique,nimes-olympique,1160,Ligue 1,2018,25.0,88150000
+620,Stade Reims,stade-reims,1421,Ligue 1,2018,24.5,86950000
+621,Angers SCO,sco-angers,1420,Ligue 1,2018,26.5,79700000
+622,EA Guingamp,ea-guingamp,855,Ligue 1,2018,25.3,70650000
+623,Amiens SC,amiens-sc,1416,Ligue 1,2018,25.4,70500000
+624,SM Caen,sm-caen,1162,Ligue 1,2018,24.8,67550000
+625,Dijon FCO,dijon-fco,2969,Ligue 1,2018,25.7,65800000
+626,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2019,25.2,874150000
+627,Olympique Lyon,olympique-lyon,1041,Ligue 1,2019,24.0,384550000
+628,AS Monaco,as-monaco,162,Ligue 1,2019,25.3,331030000
+629,LOSC Lille,losc-lille,1082,Ligue 1,2019,23.7,247780000
+630,Olympique Marseille,olympique-marseille,244,Ligue 1,2019,24.3,216150000
+631,OGC Nice,ogc-nizza,417,Ligue 1,2019,23.1,173450000
+632,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2019,25.0,171880000
+633,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2019,25.0,125350000
+634,FC Nantes,fc-nantes,995,Ligue 1,2019,25.0,106150000
+635,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2019,24.8,104830000
+636,RC Strasbourg Alsace,rc-strassburg-alsace,667,Ligue 1,2019,25.7,91130000
+637,Angers SCO,sco-angers,1420,Ligue 1,2019,25.9,89480000
+638,Montpellier HSC,montpellier-hsc,969,Ligue 1,2019,26.2,81680000
+639,Stade Reims,stade-reims,1421,Ligue 1,2019,23.7,81680000
+640,FC Toulouse,fc-toulouse,415,Ligue 1,2019,23.5,71880000
+641,Amiens SC,amiens-sc,1416,Ligue 1,2019,25.3,61930000
+642,FC Metz,fc-metz,347,Ligue 1,2019,24.4,54100000
+643,Dijon FCO,dijon-fco,2969,Ligue 1,2019,25.3,50230000
+644,Nîmes Olympique,nimes-olympique,1160,Ligue 1,2019,23.8,49650000
+645,Stade Brestois 29,stade-brest-29,3911,Ligue 1,2019,26.0,47780000
+646,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2020,24.2,805000000
+647,Olympique Lyon,olympique-lyon,1041,Ligue 1,2020,24.2,431350000
+648,AS Monaco,as-monaco,162,Ligue 1,2020,24.0,370350000
+649,LOSC Lille,losc-lille,1082,Ligue 1,2020,23.6,323200000
+650,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2020,24.2,297500000
+651,Olympique Marseille,olympique-marseille,244,Ligue 1,2020,24.9,247950000
+652,OGC Nice,ogc-nizza,417,Ligue 1,2020,22.4,236100000
+653,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2020,23.6,154500000
+654,Montpellier HSC,montpellier-hsc,969,Ligue 1,2020,25.2,113850000
+655,Angers SCO,sco-angers,1420,Ligue 1,2020,25.8,111650000
+656,RC Strasbourg Alsace,rc-strassburg-alsace,667,Ligue 1,2020,25.2,109650000
+657,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2020,25.4,105700000
+658,Stade Reims,stade-reims,1421,Ligue 1,2020,23.1,105180000
+659,RC Lens,rc-lens,826,Ligue 1,2020,24.9,104300000
+660,FC Metz,fc-metz,347,Ligue 1,2020,24.6,103500000
+661,Stade Brestois 29,stade-brest-29,3911,Ligue 1,2020,25.2,103230000
+662,FC Nantes,fc-nantes,995,Ligue 1,2020,25.4,94750000
+663,FC Lorient,fc-lorient,1158,Ligue 1,2020,26.4,72880000
+664,Dijon FCO,dijon-fco,2969,Ligue 1,2020,24.3,65630000
+665,Nîmes Olympique,nimes-olympique,1160,Ligue 1,2020,24.9,60400000
+666,Paris Saint-Germain,fc-paris-saint-germain,583,Ligue 1,2021,25.7,875150000
+667,Olympique Lyon,olympique-lyon,1041,Ligue 1,2021,24.3,397700000
+668,AS Monaco,as-monaco,162,Ligue 1,2021,23.3,396000000
+669,LOSC Lille,losc-lille,1082,Ligue 1,2021,24.0,306880000
+670,Stade Rennais FC,fc-stade-rennes,273,Ligue 1,2021,22.9,305350000
+671,Olympique Marseille,olympique-marseille,244,Ligue 1,2021,23.5,284700000
+672,OGC Nice,ogc-nizza,417,Ligue 1,2021,23.8,266050000
+673,RC Lens,rc-lens,826,Ligue 1,2021,24.8,154050000
+674,Stade Reims,stade-reims,1421,Ligue 1,2021,23.5,149400000
+675,Montpellier HSC,montpellier-hsc,969,Ligue 1,2021,24.8,144600000
+676,RC Strasbourg Alsace,rc-strassburg-alsace,667,Ligue 1,2021,24.8,120050000
+677,FC Girondins Bordeaux,fc-girondins-bordeaux,40,Ligue 1,2021,24.0,116850000
+678,FC Nantes,fc-nantes,995,Ligue 1,2021,25.6,112650000
+679,AS Saint-Étienne,as-saint-etienne,618,Ligue 1,2021,24.0,105650000
+680,Stade Brestois 29,stade-brest-29,3911,Ligue 1,2021,25.5,103150000
+681,FC Metz,fc-metz,347,Ligue 1,2021,25.0,91050000
+682,Angers SCO,sco-angers,1420,Ligue 1,2021,25.4,89500000
+683,ESTAC Troyes,es-troyes-ac,1095,Ligue 1,2021,24.6,73200000
+684,FC Lorient,fc-lorient,1158,Ligue 1,2021,25.4,61300000
+685,Clermont Foot 63,clermont-foot-63,3524,Ligue 1,2021,25.1,55100000
