@@ -7,11 +7,11 @@ countries = [
 ]
 
 leagues = [
-    {"name": "premier-league", "id": "GB1", "country_id": 189},
-    {"name": "primera-division", "id": "ES1", "country_id": 157},
-    {"name": "bundesliga", "id": "L1", "country_id": 40},
-    {"name": "serie-a", "id": "IT1", "country_id": 75},
-    {"name": "ligue-1", "id": "FR1", "country_id": 50},
+    {"name": "Premier League", "id": "GB1", "country_id": 189},
+    {"name": "LaLiga", "id": "ES1", "country_id": 157},
+    {"name": "Bundesliga", "id": "L1", "country_id": 40},
+    {"name": "Serie A", "id": "IT1", "country_id": 75},
+    {"name": "Ligue 1", "id": "FR1", "country_id": 50},
 ]
 
 playing_positions = [
