@@ -116,11 +116,11 @@ class Player(Base):
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
     name: Mapped[str] = mapped_column(VARCHAR(50))
-    birthdate: Mapped[datetime.date] = mapped_column(Date())
+    birthdate: Mapped[datetime.date] = mapped_column(Date(), nullable=True)
     height: Mapped[int] = mapped_column(Integer(), nullable=True)
     foot: Mapped[str] = mapped_column(VARCHAR(5), nullable=True)
     main_playing_position_id: Mapped[int] = mapped_column(
-        ForeignKey("playing_position.id")
+        ForeignKey("playing_position.id"), nullable=True
     )
 
 
@@ -242,32 +242,42 @@ for position in playing_positions:
 ###########################################
 # INSERT PLAYERS
 ###########################################
-with open("./players.csv", "r") as file:
+with open("./unique_players.csv", "r") as file:
     file_contents = csv.DictReader(file)
     for player in file_contents:
-        player_record = session.get(Player, player["player_id"])
-        if not player_record:
-            playing_position_name = (
-                player["main_position"]
-                .replace("midfield", "Central Midfield")
-                .replace("Defender", "Defensive Midfield")
-            )
-            playing_position = session.scalars(
-                select(PlayingPosition).where(
-                    PlayingPosition.name == playing_position_name
+        playing_position_name = (
+            player["main_position"]
+            .replace("midfield", "Central Midfield")
+            .replace("Defender", "Defensive Midfield")
+            .replace("Attack", "Attacking Midfield")
+            if player["main_position"] in ["midfield", "Defender", "Attack"]
+            else player["main_position"]
+        )
+        if playing_position_name:
+            playing_position = (
+                session.scalars(
+                    select(PlayingPosition).where(
+                        PlayingPosition.name == playing_position_name
+                    )
                 )
-            ).one()
-            new_data = Player(
-                id=player["player_id"],
-                name=player["player_name"],
-                birthdate=player["birthdate"],
-                height=player["height"]
-                if player["height"] not in ["N/A", ""]
-                else None,
-                foot=player["foot"] if player["foot"] not in ["N/A", ""] else None,
-                main_playing_position_id=playing_position.id,
+                .one()
+                .id
             )
-            session.add(new_data)
+        else:
+            playing_position = None
+        new_data = Player(
+            id=player["player_id"],
+            name=player["player_name"],
+            birthdate=datetime.strptime(player["birthdate"], "%m/%d/%Y").strftime(
+                "%Y-%m-%d"
+            )
+            if player["birthdate"]
+            else None,
+            height=player["height"] if player["height"] not in ["N/A", ""] else None,
+            foot=player["foot"] if player["foot"] not in ["N/A", ""] else None,
+            main_playing_position_id=playing_position,
+        )
+        session.add(new_data)
 
 
 session.commit()
