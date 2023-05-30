@@ -65,7 +65,7 @@ class Agent(Base):
     __tablename__ = "agent"
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
-    name: Mapped[str] = mapped_column(VARCHAR(20))
+    name: Mapped[str] = mapped_column(VARCHAR(30))
 
 
 class Team(Base):
@@ -277,6 +277,21 @@ for position in playing_positions:
         name=position["name"],
     )
     session.add(new_data)
+
+
+###########################################
+# INSERT AGENTS
+###########################################
+with open("./agents.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for agent in file_contents:
+        agent_record = session.get(Agent, agent["agent_id"])
+        if not agent_record:
+            new_data = Agent(
+                id=agent["agent_id"],
+                name=agent["agent_name"],
+            )
+            session.add(new_data)
 
 
 ###########################################
