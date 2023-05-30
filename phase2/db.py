@@ -1,4 +1,5 @@
 import csv
+import json
 from datetime import datetime
 
 import pandas as pd
@@ -122,7 +123,7 @@ class PlayerDetail(Base):
     player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
     season: Mapped[int] = mapped_column(Integer())
     team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
-    market_value: Mapped[int] = mapped_column(BigInteger())
+    market_value: Mapped[int] = mapped_column(BigInteger(), nullable=True)
     agent_id: Mapped[int] = mapped_column(ForeignKey("agent.id"), nullable=True)
 
 
@@ -333,6 +334,28 @@ with open("./unique_players.csv", "r") as file:
             main_playing_position_id=playing_position,
         )
         session.add(new_data)
+
+
+###########################################
+# INSERT PLAYER DETAIL DATA
+###########################################
+agents_data = pd.read_csv("agents.csv")
+with open("player_details.json") as file:
+    file_contents = file.read()
+    parsed_json = json.loads(file_contents)
+    for player_detail in parsed_json:
+        player_record = session.get(Player, player_detail["player_id"])
+        if player_record:
+            agent_record = agents_data.query(f'player_id == {player_detail["player_id"]} and season == {player_detail["season"]}')
+            agent = None if agent_record.empty else int( agent_record["agent_id"].values[0] )
+            new_data = PlayerDetail(
+                player_id=player_detail["player_id"],
+                season=player_detail["season"],
+                team_id=player_detail["team_id"],
+                market_value=player_detail["market_value"],
+                agent_id=agent,
+            )
+            session.add(new_data)
 
 
 session.commit()
