@@ -346,14 +346,70 @@ with open("player_details.json") as file:
     for player_detail in parsed_json:
         player_record = session.get(Player, player_detail["player_id"])
         if player_record:
-            agent_record = agents_data.query(f'player_id == {player_detail["player_id"]} and season == {player_detail["season"]}')
-            agent = None if agent_record.empty else int( agent_record["agent_id"].values[0] )
+            agent_record = agents_data.query(
+                f'player_id == {player_detail["player_id"]} and season == {player_detail["season"]}'
+            )
+            agent = (
+                None if agent_record.empty else int(agent_record["agent_id"].values[0])
+            )
             new_data = PlayerDetail(
                 player_id=player_detail["player_id"],
                 season=player_detail["season"],
                 team_id=player_detail["team_id"],
                 market_value=player_detail["market_value"],
                 agent_id=agent,
+            )
+            session.add(new_data)
+
+
+###########################################
+# INSERT MATCHES
+###########################################
+with open("./games.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for game in file_contents:
+        home_team = session.scalars(
+            select(Team).where(Team.name == game["home_team"])
+        ).first()
+        away_team = session.scalars(
+            select(Team).where(Team.name == game["away_team"])
+        ).first()
+        league = session.scalars(
+            select(League).where(League.name == game["league_name"])
+        ).first()
+        if home_team and away_team and league:
+            home_team_goals = (
+                game["result"]
+                .strip()
+                .replace("'", "")
+                .replace("[", "")
+                .replace("]", "")
+                .split(",")[0]
+            )
+            away_team_goals = (
+                game["result"]
+                .strip()
+                .replace("'", "")
+                .replace("[", "")
+                .replace("]", "")
+                .split(",")[1]
+            )
+            if home_team_goals == away_team_goals:
+                game_result = "draw"
+            elif home_team_goals > away_team_goals:
+                game_result = "home team win"
+            else:
+                game_result = "away team win"
+            new_data = Match(
+                id=game["game_id"],
+                season=datetime.strptime(game["date"], "%d-%b-%y").strftime("%Y"),
+                date=datetime.strptime(game["date"], "%d-%b-%y").strftime("%Y-%m-%d"),
+                league_id=league.id,
+                home_team_id=home_team.id,
+                away_team_id=away_team.id,
+                result=game_result,
+                home_team_goals=home_team_goals,
+                away_team_goals=away_team_goals,
             )
             session.add(new_data)
 
