@@ -169,9 +169,9 @@ class Goal(Base):
     match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
     player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
     team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
-    home_team: Mapped[int] = mapped_column(Integer())
-    away_team: Mapped[int] = mapped_column(Integer())
-    time_in_minutes: Mapped[int] = mapped_column(Integer())
+    # home_team: Mapped[int] = mapped_column(Integer())
+    # away_team: Mapped[int] = mapped_column(Integer())
+    number_of_goals: Mapped[int] = mapped_column(Integer())
     own_goal: Mapped[int] = mapped_column(Integer())
     penalty: Mapped[int] = mapped_column(Integer())
 
@@ -413,5 +413,42 @@ with open("./games.csv", "r") as file:
             )
             session.add(new_data)
 
+
+###########################################
+# INSERT PLAYER GOALS
+###########################################
+with open("./player_goals.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for goal in file_contents:
+        player_record = session.get(Player, goal["player_id"])
+        match_record = session.get(Match, goal["game_id"])
+        team_record = session.get(Team, goal["team_id"])
+        if player_record and match_record and team_record:
+            new_data = Goal(
+                match_id=goal["game_id"],
+                player_id=goal["player_id"],
+                team_id=goal["team_id"],
+                number_of_goals=goal["goals"],
+                own_goal=0,
+                penalty=0,
+            )
+            session.add(new_data)
+
+with open("./player_own_goals.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for own_goal in file_contents:
+        player_record = session.get(Player, own_goal["player_id"])
+        match_record = session.get(Match, own_goal["game_id"])
+        team_record = session.get(Team, own_goal["team_id"])
+        if player_record and match_record and team_record:
+            new_data = Goal(
+                match_id=own_goal["game_id"],
+                player_id=own_goal["player_id"],
+                team_id=own_goal["team_id"],
+                number_of_goals=own_goal["own_goals"],
+                own_goal=1,
+                penalty=0,
+            )
+            session.add(new_data)
 
 session.commit()
