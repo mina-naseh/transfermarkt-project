@@ -157,9 +157,11 @@ class PlayerAppearance(Base):
     player_id: Mapped[int] = mapped_column(ForeignKey("player.id"))
     match_id: Mapped[int] = mapped_column(ForeignKey("match.id"))
     team_id: Mapped[int] = mapped_column(ForeignKey("team.id"))
-    home_team: Mapped[int] = mapped_column(Integer())
-    away_team: Mapped[int] = mapped_column(Integer())
-    playing_position_id: Mapped[int] = mapped_column(ForeignKey("playing_position.id"))
+    # home_team: Mapped[int] = mapped_column(Integer())
+    # away_team: Mapped[int] = mapped_column(Integer())
+    playing_position_id: Mapped[int] = mapped_column(
+        ForeignKey("playing_position.id"), nullable=True
+    )
 
 
 class Goal(Base):
@@ -394,9 +396,9 @@ with open("./games.csv", "r") as file:
                 .replace("]", "")
                 .split(",")[1]
             )
-            if home_team_goals == away_team_goals:
+            if int(home_team_goals) == int(away_team_goals):
                 game_result = "draw"
-            elif home_team_goals > away_team_goals:
+            elif int(home_team_goals) > int(away_team_goals):
                 game_result = "home team win"
             else:
                 game_result = "away team win"
@@ -410,6 +412,50 @@ with open("./games.csv", "r") as file:
                 result=game_result,
                 home_team_goals=home_team_goals,
                 away_team_goals=away_team_goals,
+            )
+            session.add(new_data)
+
+
+###########################################
+# INSERT PLAYER APPEARANCE
+###########################################
+with open("./player_games.csv", "r") as file:
+    file_contents = csv.DictReader(file)
+    for player_game in file_contents:
+        player_record = session.get(Player, player_game["player_id"])
+        match_record = session.get(Match, player_game["game_id"])
+        team_record = session.get(Team, player_game["team_id"])
+        if (
+            player_record
+            and match_record
+            and team_record
+            and player_game["played_minutes"]
+        ):
+            playing_position_name = (
+                player_game["player_position"]
+                .replace("midfield", "Central Midfield")
+                .replace("Defender", "Defensive Midfield")
+                .replace("Attack", "Attacking Midfield")
+                if player_game["player_position"] in ["midfield", "Defender", "Attack"]
+                else player_game["player_position"]
+            )
+            if playing_position_name:
+                playing_position = (
+                    session.scalars(
+                        select(PlayingPosition).where(
+                            PlayingPosition.name == playing_position_name
+                        )
+                    )
+                    .one()
+                    .id
+                )
+            else:
+                playing_position = None
+            new_data = PlayerAppearance(
+                player_id=player_game["player_id"],
+                match_id=player_game["game_id"],
+                team_id=player_game["team_id"],
+                playing_position_id=playing_position,
             )
             session.add(new_data)
 
