@@ -3,10 +3,19 @@ import json
 from datetime import datetime
 
 import pandas as pd
-from sqlalchemy import (URL, VARCHAR, BigInteger, Date, Float, ForeignKey,
-                        Integer, create_engine, select, text)
+from sqlalchemy import (
+    URL,
+    VARCHAR,
+    BigInteger,
+    Date,
+    Float,
+    ForeignKey,
+    Integer,
+    create_engine,
+    select,
+    text,
+)
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column
-
 from static_data import countries, leagues, playing_positions
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
