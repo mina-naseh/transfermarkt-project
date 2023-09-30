@@ -37,19 +37,19 @@ def extract_teams(url, year, league_name):
         name = extract_name(href)
         id = extract_id(href)
         age = td[3].text
-        tmv = td[6].text.replace("€", "")
+        total_market_value = td[6].text.replace("€", "")
         teams_df = teams_df.append(
             {
                 "id": id,
                 "name": name,
                 "age": age,
-                "tmv": tmv,
+                "tmv": total_market_value,
                 "year": year,
                 "league_name": league_name,
             },
             ignore_index=True,
         )
-    return "OK"
+    return f"data league:{league_name} in year:{year} crawled!"
 
 
 def extract_id(a_tag):

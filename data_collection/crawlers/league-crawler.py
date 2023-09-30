@@ -9,7 +9,6 @@ years = [2015, 2016, 2017, 2018, 2019, 2020, 2021]
 
 def convert_value(value_str):
     value_str = value_str.strip("€").strip()
-    # print(value_str)
 
     multiplier = 1
     if value_str.endswith("bn"):

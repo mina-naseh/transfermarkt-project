@@ -21,17 +21,6 @@ required_leagues = [
     "Serie A",
     "Ligue 1",
 ]
-leagues_id = {
-    "2022 World Cup": 2022,
-    "UEFA Champions League": 500,
-    "Premier League": 501,
-    "World Cup 2018": 2018,
-    "Bundesliga": 503,
-    "LaLiga": 502,
-    "Serie A": 504,
-    "Ligue 1": 505,
-}
-leagues_type = {"Premier League": 1, "Champions League": 2, "world Cup": 3}
 
 
 leagues_df = pd.DataFrame(columns=["league_id", "league_name", "league_type"])
