@@ -10,6 +10,8 @@ The project encompasses the following steps:
 
 2. **Design, Implementation, and Storage of Data in the Database**: A suitable database schema accommodates the scraped data. This schema is implemented, and the collected data is stored in the database for efficient querying and analysis in subsequent steps.
 
+![transfermarkt-models](https://github.com/MaryamAhmadinejad/transfermarkt-project/assets/44511103/a0f5eb9e-25a1-4110-af92-bd4d7c60cbc0)
+
 3. **Statistical Analyses**: The collected data is subjected to various statistical analyses to gain insights and uncover patterns. This may include calculating player statistics, team performance metrics, transfer trends, or any other relevant analysis.
 
 4. **Machine Learning Model Training**: Building upon statistical analysis, machine learning models are developed to predict specific outcomes or make informed decisions based on the available data. This step involves feature engineering, model selection, training, and evaluation.
